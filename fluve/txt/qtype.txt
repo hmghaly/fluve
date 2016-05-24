@@ -1,0 +1,656 @@
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+B	b	b
+G	g	g
+B	b	b
+Q	q	q
+Q	q	q
+I	i	i
+I	i	i
+A	a	a
+Q	q	q
+G	g	g
+Q	q	q
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+B	b	b
+G	g	g
+B	b	b
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+B	b	b
+B	b	b
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+I	i	i
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+Q	q	q
+Q	q	q
+Q	q	q
+I	i	i
+G	g	g
+I	i	i
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+B	b	b
+G	g	g
+B	b	b
+G	g	g
+G	g	g
+I	i	i
+I	i	i
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+I	i	i
+I	i	i
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+I	i	i
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+A	a	a
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+G	g	g
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+G	g	g
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+Q	q	q
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+Q	q	q
+G	g	g
+Q	q	q
+I	i	i
+G	g	g
+I	i	i
+Q	q	q
+I	i	i
+Q	q	q
+I	i	i
+G	g	g
+I	i	i
+Q	q	q
+I	i	i
+Q	q	q
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+I	i	i
+G	g	g
+Q	q	q
+G	g	g
+G	g	g
+Q	q	q
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+G	g	g
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+		
+		
+		
+		
+		
+		
+		
+		
+G	g	g
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Q	q	q
+G	g	g
+Q	q	q
+G	g	g
+Q	q	q
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+		
+		
+		
+		
+		
+		
+		
+		
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b
+A	a	a
+A	a	a
+A	a	a
+B	b	b
+B	b	b
+B	b	b

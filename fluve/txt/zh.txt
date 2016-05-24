@@ -1,0 +1,656 @@
+yī_gè nán_rén	yī-gè nán-rén	y_C4_AB_g_C3_A8_n_C3_A1n_r_C3_A9n
+nán_rén	nán-rén	n_C3_A1n_r_C3_A9n
+{zhè_gé nán_rén}	zhè-gé nán-rén	zh_C3_A8_g_C3_A9_n_C3_A1n_r_C3_A9n
+tā hěn cōng_míng	tā hěn cōng-míng	t_C4_81_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+zhè_ge nán_rén hěn cōng_míng	zhè-ge nán-rén hěn cōng-míng	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+tā hěn hǎo	tā hěn hǎo	t_C4_81_h_C4_9Bn_h_C7_8Eo
+zhè_ge nán_rén hěn hǎo	zhè-ge nán-rén hěn hǎo	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_h_C4_9Bn_h_C7_8Eo
+tā hěn gāo	tā hěn gāo	t_C4_81_h_C4_9Bn_g_C4_81o
+zhè gè nán_rén hěn gāo	zhè gè nán-rén hěn gāo	zh_C3_A8_g_C3_A8_n_C3_A1n_r_C3_A9n_h_C4_9Bn_g_C4_81o
+yī gè cōng_míng de nán_rén	yī gè cōng-míng de nán-rén	y_C4_AB_g_C3_A8_c_C5_8Dng_m_C3_ADng_de_n_C3_A1n_r_C3_A9n
+zhè_ge cōng_míng de nán_rén	zhè-ge cōng-míng de nán-rén	zh_C3_A8_ge_c_C5_8Dng_m_C3_ADng_de_n_C3_A1n_r_C3_A9n
+yī_gè hǎo nán_rén	yī-gè hǎo nán-rén	y_C4_AB_g_C3_A8_h_C7_8Eo_n_C3_A1n_r_C3_A9n
+zhè_ge hǎo nán_rén	zhè-ge hǎo nán-rén	zh_C3_A8_ge_h_C7_8Eo_n_C3_A1n_r_C3_A9n
+yī gè gāo de nán_rén	yī gè gāo de nán-rén	y_C4_AB_g_C3_A8_g_C4_81o_de_n_C3_A1n_r_C3_A9n
+zhè gè gāo de nán_rén	zhè gè gāo de nán-rén	zh_C3_A8_g_C3_A8_g_C4_81o_de_n_C3_A1n_r_C3_A9n
+tā dú	tā dú	t_C4_81_d_C3_BA
+zhè_ge nán_rén dú	zhè-ge nán-rén dú	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_d_C3_BA
+tā chī	tā chī	t_C4_81_ch_C4_AB
+zhè_ge nán_rén chī	zhè-ge nán-rén chī	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_ch_C4_AB
+tā hē	tā hē	t_C4_81_h_C4_93
+zhè_ge nán_rén hē	zhè-ge nán-rén hē	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_h_C4_93
+tā chàng	tā chàng	t_C4_81_ch_C3_A0ng
+chàng de nán_rén	chàng de nán-rén	ch_C3_A0ng_de_n_C3_A1n_r_C3_A9n
+tā zhǔ	tā zhǔ	t_C4_81_zh_C7_94
+zhǔ de nán_rén	zhǔ de nán-rén	zh_C7_94_de_n_C3_A1n_r_C3_A9n
+tā yóu_yǒng	tā yóu-yǒng	t_C4_81_y_C3_B3u_y_C7_92ng
+yóu_yǒng de nán_rén	yóu-yǒng de nán-rén	y_C3_B3u_y_C7_92ng_de_n_C3_A1n_r_C3_A9n
+tā shì yī_gè lǎo_shī	tā shì yī-gè lǎo-shī	t_C4_81_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB
+zhè_ge nán_rén shì yī_gè lǎo_shī	zhè-ge nán-rén shì yī-gè lǎo-shī	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB
+tā shì yī_gè yī_shēng	tā shì yī-gè yī-shēng	t_C4_81_sh_C3_AC_y_C4_AB_g_C3_A8_y_C4_AB_sh_C4_93ng
+zhè_ge nán_rén shì yī_gè yī_shēng	zhè-ge nán-rén shì yī-gè yī-shēng	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_sh_C3_AC_y_C4_AB_g_C3_A8_y_C4_AB_sh_C4_93ng
+tā shì yī_gè fān_yì	tā shì yī-gè fān-yì	t_C4_81_sh_C3_AC_y_C4_AB_g_C3_A8_f_C4_81n_y_C3_AC
+zhè_ge nán_rén shì yī_gè fān_yì	zhè-ge nán-rén shì yī-gè fān-yì	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_sh_C3_AC_y_C4_AB_g_C3_A8_f_C4_81n_y_C3_AC
+wǒ de fù_qīn	wǒ de fù-qīn	w_C7_92_de_f_C3_B9_q_C4_ABn
+tā de fù_qīn	tā de fù-qīn	t_C4_81_de_f_C3_B9_q_C4_ABn
+tā de fù_qīn	tā de fù-qīn	t_C4_81_de_f_C3_B9_q_C4_ABn
+nǐ de fù_qīn (s) % nǐ_men de fù_qīn (p) % nǐn de fù_qīn (r)	nǐ de fù-qīn%nǐ-men de fù-qīn%nǐn de fù-qīn	n_C7_90_de_f_C3_B9_q_C4_ABn_s_25n_C7_90_men_de_f_C3_B9_q_C4_ABn_p_25n_C7_90n_de_f_C3_B9_q_C4_ABn_r
+wǒ de fù_qīn shì yī_gè lǎo_shī	wǒ de fù-qīn shì yī-gè lǎo-shī	w_C7_92_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB
+tā de fù_qīn shì yī_gè yī_shēng	tā de fù-qīn shì yī-gè yī-shēng	t_C4_81_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_y_C4_AB_sh_C4_93ng
+tā de fù_qīn shì yī_gè fān_yì	tā de fù-qīn shì yī-gè fān-yì	t_C4_81_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_f_C4_81n_y_C3_AC
+wǒ de fù_qīn shì yī_gè yī_shēng	wǒ de fù-qīn shì yī-gè yī-shēng	w_C7_92_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_y_C4_AB_sh_C4_93ng
+nǐ de fù_qīn shì yī_gè lǎo_shī (s) % nǐ_men de fù_qīn shì yī_gè lǎo_shī (p) % nǐn de fù_qīn shì yī_gè lǎo_shī (r)	nǐ de fù-qīn shì yī-gè lǎo-shī%nǐ-men de fù-qīn shì yī-gè lǎo-shī%nǐn de fù-qīn shì yī-gè lǎo-shī	n_C7_90_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB_s_25n_C7_90_men_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB_p_25n_C7_90n_de_f_C3_B9_q_C4_ABn_sh_C3_AC_y_C4_AB_g_C3_A8_l_C7_8Eo_sh_C4_AB_r
+yī_gè mao	yī-gè mao	y_C4_AB_g_C3_A8_mao
+māo	māo	m_C4_81o
+zhè_gè māo	zhè-gè māo	zh_C3_A8_g_C3_A8_m_C4_81o
+wǒ de māo	wǒ de māo	w_C7_92_de_m_C4_81o
+nǐ de māo (s) % nǐ_men de māo (p) % nǐn de māo (r)	nǐ de māo%nǐ-men de māo%nǐn de māo	n_C7_90_de_m_C4_81o_s_25n_C7_90_men_de_m_C4_81o_p_25n_C7_90n_de_m_C4_81o_r
+wǒ_men de māo	wǒ-men de māo	w_C7_92_men_de_m_C4_81o
+tā de māo	tā de māo	t_C4_81_de_m_C4_81o
+tā de māo	tā de māo	t_C4_81_de_m_C4_81o
+tā_men de māo	tā-men de māo	t_C4_81_men_de_m_C4_81o
+yī_gè dà māo	yī-gè dà māo	y_C4_AB_g_C3_A8_d_C3_A0_m_C4_81o
+wǒ de māo shì dà	wǒ de māo shì dà	w_C7_92_de_m_C4_81o_sh_C3_AC_d_C3_A0
+yī_gè hēi māo	yī-gè hēi māo	y_C4_AB_g_C3_A8_h_C4_93i_m_C4_81o
+tā de māo shì hēi_sè	tā de māo shì hēi-sè	t_C4_81_de_m_C4_81o_sh_C3_AC_h_C4_93i_s_C3_A8
+yī_gè xiǎo māo	yī-gè xiǎo māo	y_C4_AB_g_C3_A8_xi_C7_8Eo_m_C4_81o
+tā de māo shì xiǎo	tā de māo shì xiǎo	t_C4_81_de_m_C4_81o_sh_C3_AC_xi_C7_8Eo
+yī_gè gǒu	yī-gè gǒu	y_C4_AB_g_C3_A8_g_C7_92u
+gǒu	gǒu	g_C7_92u
+zhè_gè gǒu	zhè-gè gǒu	zh_C3_A8_g_C3_A8_g_C7_92u
+wǒ de gǒu	wǒ de gǒu	w_C7_92_de_g_C7_92u
+wǒ fù_qīn de gǒu	wǒ fù-qīn de gǒu	w_C7_92_f_C3_B9_q_C4_ABn_de_g_C7_92u
+tā de gǒu	tā de gǒu	t_C4_81_de_g_C7_92u
+tā fù_qīn de gǒu	tā fù-qīn de gǒu	t_C4_81_f_C3_B9_q_C4_ABn_de_g_C7_92u
+tā de gǒu	tā de gǒu	t_C4_81_de_g_C7_92u
+tā fù_qīn de gǒu	tā fù-qīn de gǒu	t_C4_81_f_C3_B9_q_C4_ABn_de_g_C7_92u
+yī_gè bāo_bāo	yī-gè bāo-bāo	y_C4_AB_g_C3_A8_b_C4_81o_b_C4_81o
+bāo_bāo	bāo-bāo	b_C4_81o_b_C4_81o
+zhè_gè bāo_bāo	zhè-gè bāo-bāo	zh_C3_A8_g_C3_A8_b_C4_81o_b_C4_81o
+wǒ yào yī_gè bāo_bāo	wǒ yào yī-gè bāo-bāo	w_C7_92_y_C3_A0o_y_C4_AB_g_C3_A8_b_C4_81o_b_C4_81o
+tā yào {yī_gè (bāo_bāo)}	tā yào yī-gè	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_b_C4_81o_b_C4_81o
+wǒ yào yī_gè chē	wǒ yào yī-gè chē	w_C7_92_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+tā yào { yī_gè (chē)}	tā yào yī-gè	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+wǒ yào yī_gè fáng_zi	wǒ yào yī-gè fáng-zi	w_C7_92_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+tā yào yī_gè fáng_zi	tā yào yī-gè fáng-zi	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+yī_gè nǚ_rén	yī-gè nǚ-rén	y_C4_AB_g_C3_A8_n_C7_9A_r_C3_A9n
+nǚ_rén	nǚ-rén	n_C7_9A_r_C3_A9n
+{zhè_gé nǚ_rén}	zhè-gé nǚ-rén	zh_C3_A8_g_C3_A9_n_C7_9A_r_C3_A9n
+tā yào yī_gè chē	tā yào yī-gè chē	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+zhè_gé nǚ_rén yào yī_gè chē	zhè-gé nǚ-rén yào yī-gè chē	zh_C3_A8_g_C3_A9_n_C7_9A_r_C3_A9n_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+tā yào yī_gè bāo_bāo	tā yào yī-gè bāo-bāo	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_b_C4_81o_b_C4_81o
+zhè_gé nǚ_rén yào yī_gè bāo_bāo	zhè-gé nǚ-rén yào yī-gè bāo-bāo	zh_C3_A8_g_C3_A9_n_C7_9A_r_C3_A9n_y_C3_A0o_y_C4_AB_g_C3_A8_b_C4_81o_b_C4_81o
+tā yào yī_gè fang_zi	tā yào yī-gè fang-zi	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_fang_zi
+zhè_ge nǚ_rén yào yī_gè fáng_zi	zhè-ge nǚ-rén yào yī-gè fáng-zi	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+yī_gè fáng_zi	yī-gè fáng-zi	y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+fáng_zi	fáng-zi	f_C3_A1ng_zi
+zhè_ge fáng_zi	zhè-ge fáng-zi	zh_C3_A8_ge_f_C3_A1ng_zi
+{yī_gè [​​xīn ] fáng_zi }	yī-gè xīn fáng-zi	y_C4_AB_g_C3_A8_x_C4_ABn_f_C3_A1ng_zi
+zhè_ge fáng_zi shì xīn de	zhè-ge fáng-zi shì xīn de	zh_C3_A8_ge_f_C3_A1ng_zi_sh_C3_AC_x_C4_ABn_de
+{yī_gè [​​jiù ] fáng_zi }	yī-gè jiù fáng-zi	y_C4_AB_g_C3_A8_ji_C3_B9_f_C3_A1ng_zi
+zhè_ge fáng_zi shì jiù de	zhè-ge fáng-zi shì jiù de	zh_C3_A8_ge_f_C3_A1ng_zi_sh_C3_AC_ji_C3_B9_de
+yī_gè hǎo de fáng_zi	yī-gè hǎo de fáng-zi	y_C4_AB_g_C3_A8_h_C7_8Eo_de_f_C3_A1ng_zi
+zhè_ge fáng_zi shì hǎo de	zhè-ge fáng-zi shì hǎo de	zh_C3_A8_ge_f_C3_A1ng_zi_sh_C3_AC_h_C7_8Eo_de
+wǒ_men yào yī_gè fáng_zi	wǒ-men yào yī-gè fáng-zi	w_C7_92_men_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ_men yào yī_gè xīn de fáng_zi	wǒ-men yào yī-gè xīn de fáng-zi	w_C7_92_men_y_C3_A0o_y_C4_AB_g_C3_A8_x_C4_ABn_de_f_C3_A1ng_zi
+tā_men yào yī_gè fángzi	tā-men yào yī-gè fángzi	t_C4_81_men_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ngzi
+tā_men yào yī_gè xīn fáng_zi	tā-men yào yī-gè xīn fáng-zi	t_C4_81_men_y_C3_A0o_y_C4_AB_g_C3_A8_x_C4_ABn_f_C3_A1ng_zi
+wǒ_men yào yī_gè hǎo de fáng_zi	wǒ-men yào yī-gè hǎo de fáng-zi	w_C7_92_men_y_C3_A0o_y_C4_AB_g_C3_A8_h_C7_8Eo_de_f_C3_A1ng_zi
+tā_men yào yīgè hǎo de fángzi	tā-men yào yīgè hǎo de fángzi	t_C4_81_men_y_C3_A0o_y_C4_ABg_C3_A8_h_C7_8Eo_de_f_C3_A1ngzi
+shén_me?	shén-me	sh_C3_A9n_me
+Nǎ_lǐ?	nǎ-lǐ	n_C7_8E_l_C7_90
+Jǐ_diǎn?	jǐ-diǎn	j_C7_90_di_C7_8En
+Shuí?	shuí	shu_C3_AD
+Wèi_shén_me?	wèi-shén-me	w_C3_A8i_sh_C3_A9n_me
+Zěn_me yàng?	zěn-me yàng	z_C4_9Bn_me_y_C3_A0ng
+Duō_shǎo?	duō-shǎo	du_C5_8D_sh_C7_8Eo
+Nán_rén	nán-rén	n_C3_A1n_r_C3_A9n
+nán_rén	nán-rén	n_C3_A1n_r_C3_A9n
+zhè_xiē nán_rén	zhè-xiē nán-rén	zh_C3_A8_xi_C4_93_n_C3_A1n_r_C3_A9n
+nǐ yào shén_me? (s) % nǐ_men yào shén_me? (p) % nǐn yào shén_me? (r)	nǐ yào shén-me%nǐ-men yào shén-me%nǐn yào shén-me	n_C7_90_y_C3_A0o_sh_C3_A9n_me_s_25n_C7_90_men_y_C3_A0o_sh_C3_A9n_me_p_25n_C7_90n_y_C3_A0o_sh_C3_A9n_me_r
+tā yào shén_me?	tā yào shén-me	t_C4_81_y_C3_A0o_sh_C3_A9n_me
+zhè_ge nǚ_rén yào shén_me?	zhè-ge nǚ-rén yào shén-me	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_y_C3_A0o_sh_C3_A9n_me
+tā yào shén_me?	tā yào shén-me	t_C4_81_y_C3_A0o_sh_C3_A9n_me
+zhè_ge nán_rén yào shén_me?	zhè-ge nán-rén yào shén-me	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_y_C3_A0o_sh_C3_A9n_me
+Tā_men yào shén_me?	tā-men yào shén-me	t_C4_81_men_y_C3_A0o_sh_C3_A9n_me
+zhè_xiē nán_rén yào shén_me?	zhè-xiē nán-rén yào shén-me	zh_C3_A8_xi_C4_93_n_C3_A1n_r_C3_A9n_y_C3_A0o_sh_C3_A9n_me
+Tāng	tāng	t_C4_81ng
+mǐ	mǐ	m_C7_90
+miàn	miàn	mi_C3_A0n
+miàn_bāo	miàn-bāo	mi_C3_A0n_b_C4_81o
+shā_lā	shā-lā	sh_C4_81_l_C4_81
+qǐ_sī	qǐ-sī	q_C7_90_s_C4_AB
+jī	jī	j_C4_AB
+ròu	ròu	r_C3_B2u
+shū_cài	shū-cài	sh_C5_AB_c_C3_A0i
+yú	yú	y_C3_BA
+shuǐ_guǒ	shuǐ-guǒ	shu_C7_90_gu_C7_92
+zhū_ròu	zhū-ròu	zh_C5_AB_r_C3_B2u
+tā	tā	t_C4_81
+tā	tā	t_C4_81
+Wǒ	wǒ	w_C7_92
+wǒ_men	wǒ-men	w_C7_92_men
+tā_men	tā-men	t_C4_81_men
+ní (s) % ní_men (p) % nín (r)	ní%ní-men%nín	n_C3_AD_s_25n_C3_AD_men_p_25n_C3_ADn_r
+tā	tā	t_C4_81
+zhè shì shén_me?	zhè shì shén-me	zh_C3_A8_sh_C3_AC_sh_C3_A9n_me
+zhēn yàng le?	zhēn yàng le	zh_C4_93n_y_C3_A0ng_le
+hái yǒu shén_me?	hái yǒu shén-me	h_C3_A1i_y_C7_92u_sh_C3_A9n_me
+Zěn_me le?	zěn-me le	z_C4_9Bn_me_le
+Wǒ yào chī	wǒ yào chī	w_C7_92_y_C3_A0o_ch_C4_AB
+tā yào chī	tā yào chī	t_C4_81_y_C3_A0o_ch_C4_AB
+wǒ yào hè	wǒ yào hè	w_C7_92_y_C3_A0o_h_C3_A8
+tā yào hē	tā yào hē	t_C4_81_y_C3_A0o_h_C4_93
+wǒ yào dú	wǒ yào dú	w_C7_92_y_C3_A0o_d_C3_BA
+tā yào dú	tā yào dú	t_C4_81_y_C3_A0o_d_C3_BA
+wǒ chī	wǒ chī	w_C7_92_ch_C4_AB
+wǒ_men chī	wǒ-men chī	w_C7_92_men_ch_C4_AB
+tā chī	tā chī	t_C4_81_ch_C4_AB
+nǐ chī (s) % nǐ_men chī (p) % nǐn chī (r)	nǐ chī%nǐ-men chī%nǐn chī	n_C7_90_ch_C4_AB_s_25n_C7_90_men_ch_C4_AB_p_25n_C7_90n_ch_C4_AB_r
+tā_men chī	tā-men chī	t_C4_81_men_ch_C4_AB
+wǒ chī {miàn_tiáo}	wǒ chī miàn-tiáo	w_C7_92_ch_C4_AB_mi_C3_A0n_ti_C3_A1o
+tā chī miàn	tā chī miàn	t_C4_81_ch_C4_AB_mi_C3_A0n
+tā chī shuǐ_guǒ	tā chī shuǐ-guǒ	t_C4_81_ch_C4_AB_shu_C7_90_gu_C7_92
+wǒ_men chī yú	wǒ-men chī yú	w_C7_92_men_ch_C4_AB_y_C3_BA
+tā_men chī qǐ_sī	tā-men chī qǐ-sī	t_C4_81_men_ch_C4_AB_q_C7_90_s_C4_AB
+nǐ chī jī_ròu (s) % nǐ_men chī jī_ròu (p) % nǐn chī jī_ròu (r)	nǐ chī jī-ròu%nǐ-men chī jī-ròu%nǐn chī jī-ròu	n_C7_90_ch_C4_AB_j_C4_AB_r_C3_B2u_s_25n_C7_90_men_ch_C4_AB_j_C4_AB_r_C3_B2u_p_25n_C7_90n_ch_C4_AB_j_C4_AB_r_C3_B2u_r
+wǒ bù chī ròu	wǒ bù chī ròu	w_C7_92_b_C3_B9_ch_C4_AB_r_C3_B2u
+tā bù chī ròu	tā bù chī ròu	t_C4_81_b_C3_B9_ch_C4_AB_r_C3_B2u
+wǒ bù chī zhū_ròu	wǒ bù chī zhū-ròu	w_C7_92_b_C3_B9_ch_C4_AB_zh_C5_AB_r_C3_B2u
+tā bù chī zhū_ròu	tā bù chī zhū-ròu	t_C4_81_b_C3_B9_ch_C4_AB_zh_C5_AB_r_C3_B2u
+tā_men bù chī yú	tā-men bù chī yú	t_C4_81_men_b_C3_B9_ch_C4_AB_y_C3_BA
+tā_men bù chī qǐ_sī	tā-men bù chī qǐ-sī	t_C4_81_men_b_C3_B9_ch_C4_AB_q_C7_90_s_C4_AB
+Tā bù chī miàn	tā bù chī miàn	t_C4_81_b_C3_B9_ch_C4_AB_mi_C3_A0n
+tā bù chī shuǐ_guǒ	tā bù chī shuǐ-guǒ	t_C4_81_b_C3_B9_ch_C4_AB_shu_C7_90_gu_C7_92
+nǐ zuò shén_me? (s) % nǐ_men zuò shén_me? (p) % nǐn zuò shén_me? (r)	nǐ zuò shén-me%nǐ-men zuò shén-me%nǐn zuò shén-me	n_C7_90_zu_C3_B2_sh_C3_A9n_me_s_25n_C7_90_men_zu_C3_B2_sh_C3_A9n_me_p_25n_C7_90n_zu_C3_B2_sh_C3_A9n_me_r
+Nǐ shuō shén_me? (s) % Nǐ_men shuō shén_me? (p) % Nǐn shuō shén_me?(r)	nǐ shuō shén-me%nǐ-men shuō shén-me%nǐn shuō shén-me	n_C7_90_shu_C5_8D_sh_C3_A9n_me_s_25n_C7_90_men_shu_C5_8D_sh_C3_A9n_me_p_25n_C7_90n_shu_C5_8D_sh_C3_A9n_me_r
+Tā zuò shén_me?	tā zuò shén-me	t_C4_81_zu_C3_B2_sh_C3_A9n_me
+Tā shuō shén_me?	tā shuō shén-me	t_C4_81_shu_C5_8D_sh_C3_A9n_me
+Tā zuò shén_me?	tā zuò shén-me	t_C4_81_zu_C3_B2_sh_C3_A9n_me
+Tā shuō shén_me?	tā shuō shén-me	t_C4_81_shu_C5_8D_sh_C3_A9n_me
+Nǐ shì shuí? (s) % Nǐ_men shì shuí? (p) % Nǐn shì shuí? (r)	nǐ shì shuí%nǐ-men shì shuí%nǐn shì shuí	n_C7_90_sh_C3_AC_shu_C3_AD_s_25n_C7_90_men_sh_C3_AC_shu_C3_AD_p_25n_C7_90n_sh_C3_AC_shu_C3_AD_r
+Tā shì shuí?	tā shì shuí	t_C4_81_sh_C3_AC_shu_C3_AD
+Shuí shì zhè_ge nán_rén?	shuí shì zhè-ge nán-rén	shu_C3_AD_sh_C3_AC_zh_C3_A8_ge_n_C3_A1n_r_C3_A9n
+Tā shì shuí?	tā shì shuí	t_C4_81_sh_C3_AC_shu_C3_AD
+Shuí shì zhè_ge nǚ_rén?	shuí shì zhè-ge nǚ-rén	shu_C3_AD_sh_C3_AC_zh_C3_A8_ge_n_C7_9A_r_C3_A9n
+Tā_men shì shuí?	tā-men shì shuí	t_C4_81_men_sh_C3_AC_shu_C3_AD
+Shuí shì zhè_xiē nán_rén?	shuí shì zhè-xiē nán-rén	shu_C3_AD_sh_C3_AC_zh_C3_A8_xi_C4_93_n_C3_A1n_r_C3_A9n
+Wǒ shuō yīng_yǔ	wǒ shuō yīng-yǔ	w_C7_92_shu_C5_8D_y_C4_ABng_y_C7_94
+tā shuō yīng_yǔ	tā shuō yīng-yǔ	t_C4_81_shu_C5_8D_y_C4_ABng_y_C7_94
+wǒ_men shuō yīng_yǔ	wǒ-men shuō yīng-yǔ	w_C7_92_men_shu_C5_8D_y_C4_ABng_y_C7_94
+tā_men shuō yīng_yǔ	tā-men shuō yīng-yǔ	t_C4_81_men_shu_C5_8D_y_C4_ABng_y_C7_94
+nǐ shuō yīng_yǔ (s) % nǐ_men shuō yīng_yǔ (p) % nǐn shuō yīng_yǔ (r)	nǐ shuō yīng-yǔ%nǐ-men shuō yīng-yǔ%nǐn shuō yīng-yǔ	n_C7_90_shu_C5_8D_y_C4_ABng_y_C7_94_s_25n_C7_90_men_shu_C5_8D_y_C4_ABng_y_C7_94_p_25n_C7_90n_shu_C5_8D_y_C4_ABng_y_C7_94_r
+tā shuō yīng_yǔ	tā shuō yīng-yǔ	t_C4_81_shu_C5_8D_y_C4_ABng_y_C7_94
+rén	rén	r_C3_A9n
+rén	rén	r_C3_A9n
+zhè_xiē rén	zhè-xiē rén	zh_C3_A8_xi_C4_93_r_C3_A9n
+wǒ bù shuō yīng_yǔ	wǒ bù shuō yīng-yǔ	w_C7_92_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+tā bù shuō yīng_yǔ	tā bù shuō yīng-yǔ	t_C4_81_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+zhè_ge nǚ_rén bù shuō yīng_yǔ	zhè-ge nǚ-rén bù shuō yīng-yǔ	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+tā bù shuō yīngyǔ	tā bù shuō yīngyǔ	t_C4_81_b_C3_B9_shu_C5_8D_y_C4_ABngy_C7_94
+zhè_ge Nán_rén bù shuō yīng_yǔ	zhè-ge nán-rén bù shuō yīng-yǔ	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+tā_men bù shuō yīng_yǔ	tā-men bù shuō yīng-yǔ	t_C4_81_men_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+zhè_xiē rén bù shuō yīng_yǔ	zhè-xiē rén bù shuō yīng-yǔ	zh_C3_A8_xi_C4_93_r_C3_A9n_b_C3_B9_shu_C5_8D_y_C4_ABng_y_C7_94
+nǐ shuō yīng_yǔ ma?	nǐ shuō yīng-yǔ ma	n_C7_90_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+Tā shuō yīng_yǔ ma?	tā shuō yīng-yǔ ma	t_C4_81_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+zhè_ge nǚ_rén shuō yīng_yǔ ma?	zhè-ge nǚ-rén shuō yīng-yǔ ma	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+Tā shuō yīng_yǔ ma?	tā shuō yīng-yǔ ma	t_C4_81_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+zhè_ge Nán_rén shuō yīng_yǔ ma?	zhè-ge nán-rén shuō yīng-yǔ ma	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+tā_men shuō yīng_yǔ ma?	tā-men shuō yīng-yǔ ma	t_C4_81_men_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+zhè_xiē rén shuō yīng_yǔ ma?	zhè-xiē rén shuō yīng-yǔ ma	zh_C3_A8_xi_C4_93_r_C3_A9n_shu_C5_8D_y_C4_ABng_y_C7_94_ma
+Wǒ de míng_zì	wǒ de míng-zì	w_C7_92_de_m_C3_ADng_z_C3_AC
+tā de míng_zì	tā de míng-zì	t_C4_81_de_m_C3_ADng_z_C3_AC
+tā de míngz_ì	tā de míngz-ì	t_C4_81_de_m_C3_ADngz__C3_AC
+nǐ de míngzì (s) % nǐ_men de míngzì (p) % nǐn de míngzì (r)	nǐ de míngzì%nǐ-men de míngzì%nǐn de míngzì	n_C7_90_de_m_C3_ADngz_C3_AC_s_25n_C7_90_men_de_m_C3_ADngz_C3_AC_p_25n_C7_90n_de_m_C3_ADngz_C3_AC_r
+nǐ de míngzì Shì shén_me? (s) % nǐ_men de míngzì Shì shén_me? (p) % nǐn de míngzì Shì shén_me? (r)	nǐ de míngzì shì shén-me%nǐ-men de míngzì shì shén-me%nǐn de míngzì shì shén-me	n_C7_90_de_m_C3_ADngz_C3_AC_sh_C3_AC_sh_C3_A9n_me_s_25n_C7_90_men_de_m_C3_ADngz_C3_AC_sh_C3_AC_sh_C3_A9n_me_p_25n_C7_90n_de_m_C3_ADngz_C3_AC_sh_C3_AC_sh_C3_A9n_me_r
+Tā de míngzì Shì shén_me?	tā de míngzì shì shén-me	t_C4_81_de_m_C3_ADngz_C3_AC_sh_C3_AC_sh_C3_A9n_me
+Tā de míngzì Shì shén_me?	tā de míngzì shì shén-me	t_C4_81_de_m_C3_ADngz_C3_AC_sh_C3_AC_sh_C3_A9n_me
+Dì_zhǐ	dì-zhǐ	d_C3_AC_zh_C7_90
+wǒ de dì_zhǐ	wǒ de dì-zhǐ	w_C7_92_de_d_C3_AC_zh_C7_90
+nǐ de dì_zhǐ (s) % nǐ_men de dì_zhǐ (p) % nǐn de dì_zhǐ (r)	nǐ de dì-zhǐ%nǐ-men de dì-zhǐ%nǐn de dì-zhǐ	n_C7_90_de_d_C3_AC_zh_C7_90_s_25n_C7_90_men_de_d_C3_AC_zh_C7_90_p_25n_C7_90n_de_d_C3_AC_zh_C7_90_r
+tā de dì_zhǐ	tā de dì-zhǐ	t_C4_81_de_d_C3_AC_zh_C7_90
+tā de dì_zhǐ	tā de dì-zhǐ	t_C4_81_de_d_C3_AC_zh_C7_90
+wǒ_men de dì_zhǐ	wǒ-men de dì-zhǐ	w_C7_92_men_de_d_C3_AC_zh_C7_90
+tā_men de dì_zhǐ	tā-men de dì-zhǐ	t_C4_81_men_de_d_C3_AC_zh_C7_90
+wǒ zhī_dào tā de míng_zì	wǒ zhī-dào tā de míng-zì	w_C7_92_zh_C4_AB_d_C3_A0o_t_C4_81_de_m_C3_ADng_z_C3_AC
+wǒ zhī_dào tā de dì_zhǐ	wǒ zhī-dào tā de dì-zhǐ	w_C7_92_zh_C4_AB_d_C3_A0o_t_C4_81_de_d_C3_AC_zh_C7_90
+tā zhī_dào wǒ de dì_zhǐ	tā zhī-dào wǒ de dì-zhǐ	t_C4_81_zh_C4_AB_d_C3_A0o_w_C7_92_de_d_C3_AC_zh_C7_90
+tā zhī_dào tā de míng_zì	tā zhī-dào tā de míng-zì	t_C4_81_zh_C4_AB_d_C3_A0o_t_C4_81_de_m_C3_ADng_z_C3_AC
+tā zhī_dào tā_men de dì_zhǐ	tā zhī-dào tā-men de dì-zhǐ	t_C4_81_zh_C4_AB_d_C3_A0o_t_C4_81_men_de_d_C3_AC_zh_C7_90
+Tā zhī_dào tā de míng_zì	tā zhī-dào tā de míng-zì	t_C4_81_zh_C4_AB_d_C3_A0o_t_C4_81_de_m_C3_ADng_z_C3_AC
+zhè_ge nǚ_rén zhī_dào wǒ de dì_zhǐ	zhè-ge nǚ-rén zhī-dào wǒ de dì-zhǐ	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_zh_C4_AB_d_C3_A0o_w_C7_92_de_d_C3_AC_zh_C7_90
+tā_men zhī_dào wǒ_men de dì_zhǐ	tā-men zhī-dào wǒ-men de dì-zhǐ	t_C4_81_men_zh_C4_AB_d_C3_A0o_w_C7_92_men_de_d_C3_AC_zh_C7_90
+zhè_xiē rén zhī_dào tā de míng_zì	zhè-xiē rén zhī-dào tā de míng-zì	zh_C3_A8_xi_C4_93_r_C3_A9n_zh_C4_AB_d_C3_A0o_t_C4_81_de_m_C3_ADng_z_C3_AC
+wǒ bù zhī_dào	wǒ bù zhī-dào	w_C7_92_b_C3_B9_zh_C4_AB_d_C3_A0o
+tā bù zhī_dào	tā bù zhī-dào	t_C4_81_b_C3_B9_zh_C4_AB_d_C3_A0o
+zhè_ge Nán_rén bù zhī_dào	zhè-ge nán-rén bù zhī-dào	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_b_C3_B9_zh_C4_AB_d_C3_A0o
+tā bù zhī_dào	tā bù zhī-dào	t_C4_81_b_C3_B9_zh_C4_AB_d_C3_A0o
+zhè_ge nǚ_rén bù zhī_dào	zhè-ge nǚ-rén bù zhī-dào	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_b_C3_B9_zh_C4_AB_d_C3_A0o
+tā_men bù zhī_dào	tā-men bù zhī-dào	t_C4_81_men_b_C3_B9_zh_C4_AB_d_C3_A0o
+zhè_xiē rén bù zhī_dào	zhè-xiē rén bù zhī-dào	zh_C3_A8_xi_C4_93_r_C3_A9n_b_C3_B9_zh_C4_AB_d_C3_A0o
+wǒ de mǔ_qīn	wǒ de mǔ-qīn	w_C7_92_de_m_C7_94_q_C4_ABn
+nǐ de mǔ_qīn	nǐ de mǔ-qīn	n_C7_90_de_m_C7_94_q_C4_ABn
+tā de mǔ_qīn	tā de mǔ-qīn	t_C4_81_de_m_C7_94_q_C4_ABn
+tā de mǔ_qīn	tā de mǔ-qīn	t_C4_81_de_m_C7_94_q_C4_ABn
+wǒ huì yóu_yǒng	wǒ huì yóu-yǒng	w_C7_92_hu_C3_AC_y_C3_B3u_y_C7_92ng
+tā huì yóu_yǒng	tā huì yóu-yǒng	t_C4_81_hu_C3_AC_y_C3_B3u_y_C7_92ng
+wǒ de fù_qīn huì yóu_yǒng	wǒ de fù-qīn huì yóu-yǒng	w_C7_92_de_f_C3_B9_q_C4_ABn_hu_C3_AC_y_C3_B3u_y_C7_92ng
+tā huì yóu_yǒng	tā huì yóu-yǒng	t_C4_81_hu_C3_AC_y_C3_B3u_y_C7_92ng
+Wǒ de mǔ_qīn huì yóu_yǒng	wǒ de mǔ-qīn huì yóu-yǒng	w_C7_92_de_m_C7_94_q_C4_ABn_hu_C3_AC_y_C3_B3u_y_C7_92ng
+nǐ huì yóu_yǒng (s) % nǐ_men huì yóu_yǒng (p) % nǐn huì yóu_yǒng (r)	nǐ huì yóu-yǒng%nǐ-men huì yóu-yǒng%nǐn huì yóu-yǒng	n_C7_90_hu_C3_AC_y_C3_B3u_y_C7_92ng_s_25n_C7_90_men_hu_C3_AC_y_C3_B3u_y_C7_92ng_p_25n_C7_90n_hu_C3_AC_y_C3_B3u_y_C7_92ng_r
+wǒ_men huì yóu_yǒng	wǒ-men huì yóu-yǒng	w_C7_92_men_hu_C3_AC_y_C3_B3u_y_C7_92ng
+tā_men huì yóu_yǒng	tā-men huì yóu-yǒng	t_C4_81_men_hu_C3_AC_y_C3_B3u_y_C7_92ng
+zhè_xiē rén huì yóu_yǒng	zhè-xiē rén huì yóu-yǒng	zh_C3_A8_xi_C4_93_r_C3_A9n_hu_C3_AC_y_C3_B3u_y_C7_92ng
+yī_gè wèn_tí	yī-gè wèn-tí	y_C4_AB_g_C3_A8_w_C3_A8n_t_C3_AD
+wèntí	wèntí	w_C3_A8nt_C3_AD
+zhè_ge wèn_tí	zhè-ge wèn-tí	zh_C3_A8_ge_w_C3_A8n_t_C3_AD
+wǒ de wèn_tí	wǒ de wèn-tí	w_C7_92_de_w_C3_A8n_t_C3_AD
+tā de wèn_tí	tā de wèn-tí	t_C4_81_de_w_C3_A8n_t_C3_AD
+tā de wèn_tí	tā de wèn-tí	t_C4_81_de_w_C3_A8n_t_C3_AD
+nǐ de wèn_tí (s) % nǐ_men de wèn_tí (p) % nǐn de wèn_tí (r)	nǐ de wèn-tí%nǐ-men de wèn-tí%nǐn de wèn-tí	n_C7_90_de_w_C3_A8n_t_C3_AD_s_25n_C7_90_men_de_w_C3_A8n_t_C3_AD_p_25n_C7_90n_de_w_C3_A8n_t_C3_AD_r
+wǒ_men de wèn_tí	wǒ-men de wèn-tí	w_C7_92_men_de_w_C3_A8n_t_C3_AD
+tā_men de wèn_tí	tā-men de wèn-tí	t_C4_81_men_de_w_C3_A8n_t_C3_AD
+Yī_gè chē	yī-gè chē	y_C4_AB_g_C3_A8_ch_C4_93
+zhè_ge chē	zhè-ge chē	zh_C3_A8_ge_ch_C4_93
+zhè_ge chē	zhè-ge chē	zh_C3_A8_ge_ch_C4_93
+wǒ yǒu yī_gè fáng_zi	wǒ yǒu yī-gè fáng-zi	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ yǒu yī_gè chē	wǒ yǒu yī-gè chē	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+tā yǒu yī_gè fáng_zi	tā yǒu yī-gè fáng-zi	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+tā yǒu yī_gè chē	tā yǒu yī-gè chē	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+tā yǒu yī_gè mao	tā yǒu yī-gè mao	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_mao
+tā yǒu yī_gè fángzi	tā yǒu yī-gè fángzi	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ngzi
+tā yǒu yī_gè māo	tā yǒu yī-gè māo	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_m_C4_81o
+tā_ men yǒu yī_gè chē	tā- men yǒu yī-gè chē	t_C4_81__men_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+Tā_ men yǒu yī_gè fáng_zi	tā- men yǒu yī-gè fáng-zi	t_C4_81__men_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ men yǒu yī_gè mao	wǒ men yǒu yī-gè mao	w_C7_92_men_y_C7_92u_y_C4_AB_g_C3_A8_mao
+wǒ_men yǒu yī_gè fáng_zi	wǒ-men yǒu yī-gè fáng-zi	w_C7_92_men_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ méi yǒu yī_gè fáng_zi	wǒ méi yǒu yī-gè fáng-zi	w_C7_92_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ méi yǒu yī_gè chē	wǒ méi yǒu yī-gè chē	w_C7_92_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+tā méi yǒu yī_gè fáng_zi	tā méi yǒu yī-gè fáng-zi	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+tā méi yǒu yī_gè chē	tā méi yǒu yī-gè chē	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+tā méi yǒu yī_gè māo	tā méi yǒu yī-gè māo	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_m_C4_81o
+tā méi yǒu yī_gè fáng_zi	tā méi yǒu yī-gè fáng-zi	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+tā méi yǒu yī_gè māo	tā méi yǒu yī-gè māo	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_m_C4_81o
+tā_men méi yǒu yī_gè chē	tā-men méi yǒu yī-gè chē	t_C4_81_men_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_ch_C4_93
+tā_men méi yǒu yī_gè fáng_zi	tā-men méi yǒu yī-gè fáng-zi	t_C4_81_men_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+wǒ men méi yǒu yī_gè māo	wǒ men méi yǒu yī-gè māo	w_C7_92_men_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_m_C4_81o
+wǒ men méi yǒu yī_gè fáng_zi	wǒ men méi yǒu yī-gè fáng-zi	w_C7_92_men_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+zhēn de ma?	zhēn de ma	zh_C4_93n_de_ma
+què_dìng ma?	què-dìng ma	qu_C3_A8_d_C3_ACng_ma
+Nǐ ne?	nǐ ne	n_C7_90_ne
+Wán le ma?	wán le ma	w_C3_A1n_le_ma
+Duì ma?	duì ma	du_C3_AC_ma
+Zǎo_ān!	zǎo-ān	z_C7_8Eo__C4_81n
+Wǎn_ān!	wǎn-ān	w_C7_8En__C4_81n
+Ní hǎo! (s) % Ní_men hǎo! (p) % Nín hǎo!  (r)	ní hǎo%ní-men hǎo%nín hǎo	n_C3_AD_h_C7_8Eo_s_25n_C3_AD_men_h_C7_8Eo_p_25n_C3_ADn_h_C7_8Eo_r
+Huān_yíng!	huān-yíng	hu_C4_81n_y_C3_ADng
+Xiè_xiè!	xiè-xiè	xi_C3_A8_xi_C3_A8
+Bù kè_qì!	bù kè-qì	b_C3_B9_k_C3_A8_q_C3_AC
+Bào_qiàn!	bào-qiàn	b_C3_A0o_qi_C3_A0n
+Duì_bù_qǐ	duì-bù-qǐ	du_C3_AC_b_C3_B9_q_C7_90
+Méi_guān_xì	méi-guān-xì	m_C3_A9i_gu_C4_81n_x_C3_AC
+zài_jiàn!	zài-jiàn	z_C3_A0i_ji_C3_A0n
+Zhè gěi nǐ (s) % Zhè gěi nǐ_men (p) % Zhè gěi nǐn (r)	zhè gěi nǐ%zhè gěi nǐ-men%zhè gěi nǐn	zh_C3_A8_g_C4_9Bi_n_C7_90_s_25zh_C3_A8_g_C4_9Bi_n_C7_90_men_p_25zh_C3_A8_g_C4_9Bi_n_C7_90n_r
+qǐng!	qǐng	q_C7_90ng
+Ní cóng nǎ_lǐ lái? (s) % Ní_men cóng nǎ_lǐ lái? (p) % Nín cóng nǎ_lǐ lái? (r)	ní cóng nǎ-lǐ lái%ní-men cóng nǎ-lǐ lái%nín cóng nǎ-lǐ lái	n_C3_AD_c_C3_B3ng_n_C7_8E_l_C7_90_l_C3_A1i_s_25n_C3_AD_men_c_C3_B3ng_n_C7_8E_l_C7_90_l_C3_A1i_p_25n_C3_ADn_c_C3_B3ng_n_C7_8E_l_C7_90_l_C3_A1i_r
+Nǐ zài nǎ_lǐ? (s) % Nǐ_men zài nǎ_lǐ? (p) % Nǐn zài nǎ_lǐ? (r)	nǐ zài nǎ-lǐ%nǐ-men zài nǎ-lǐ%nǐn zài nǎ-lǐ	n_C7_90_z_C3_A0i_n_C7_8E_l_C7_90_s_25n_C7_90_men_z_C3_A0i_n_C7_8E_l_C7_90_p_25n_C7_90n_z_C3_A0i_n_C7_8E_l_C7_90_r
+Tā zài nǎ_lǐ?	tā zài nǎ-lǐ	t_C4_81_z_C3_A0i_n_C7_8E_l_C7_90
+Tā zài nǎ_lǐ?	tā zài nǎ-lǐ	t_C4_81_z_C3_A0i_n_C7_8E_l_C7_90
+Wǒ_men zài nǎ_lǐ?	wǒ-men zài nǎ-lǐ	w_C7_92_men_z_C3_A0i_n_C7_8E_l_C7_90
+Tā_men zài nǎ_lǐ?	tā-men zài nǎ-lǐ	t_C4_81_men_z_C3_A0i_n_C7_8E_l_C7_90
+Wǒ zài nǎ_li?	wǒ zài nǎ-li	w_C7_92_z_C3_A0i_n_C7_8E_li
+Xiàn_zài	xiàn-zài	xi_C3_A0n_z_C3_A0i
+jīn_tiān	jīn-tiān	j_C4_ABn_ti_C4_81n
+míng_tiān	míng-tiān	m_C3_ADng_ti_C4_81n
+zuó_tiān	zuó-tiān	zu_C3_B3_ti_C4_81n
+Guò yī_huǐ_er	guò yī-huǐ-er	gu_C3_B2_y_C4_AB_hu_C7_90_er
+Xià_gè xīng_qí	xià-gè xīng-qí	xi_C3_A0_g_C3_A8_x_C4_ABng_q_C3_AD
+shàng_gè xīng_qí	shàng-gè xīng-qí	sh_C3_A0ng_g_C3_A8_x_C4_ABng_q_C3_AD
+xià_gè yuè	xià-gè yuè	xi_C3_A0_g_C3_A8_yu_C3_A8
+shàng_gè yuè	shàng-gè yuè	sh_C3_A0ng_g_C3_A8_yu_C3_A8
+yǒu_shí	yǒu-shí	y_C7_92u_sh_C3_AD
+zǒng_shì	zǒng-shì	z_C7_92ng_sh_C3_AC
+cháng_cháng	cháng-cháng	ch_C3_A1ng_ch_C3_A1ng
+hěn shǎo	hěn shǎo	h_C4_9Bn_sh_C7_8Eo
+duì	duì	du_C3_AC
+bù	bù	b_C3_B9
+dāng_rán	dāng-rán	d_C4_81ng_r_C3_A1n
+bù què_dìng	bù què-dìng	b_C3_B9_qu_C3_A8_d_C3_ACng
+hái_méi	hái-méi	h_C3_A1i_m_C3_A9i
+yǒu kě_néng	yǒu kě-néng	y_C7_92u_k_C4_9B_n_C3_A9ng
+hǎo	hǎo	h_C7_8Eo
+wǒ bù jué_de	wǒ bù jué-de	w_C7_92_b_C3_B9_ju_C3_A9_de
+bù zhī_dào	bù zhī-dào	b_C3_B9_zh_C4_AB_d_C3_A0o
+méi wèn_tí!	méi wèn-tí	m_C3_A9i_w_C3_A8n_t_C3_AD
+Suí_biàn!	suí-biàn	su_C3_AD_bi_C3_A0n
+Yǒu yī_gè wèn_tí	yǒu yī-gè wèn-tí	y_C7_92u_y_C4_AB_g_C3_A8_w_C3_A8n_t_C3_AD
+Yǒu yī_gè wèn_tí	yǒu yī-gè wèn-tí	y_C7_92u_y_C4_AB_g_C3_A8_w_C3_A8n_t_C3_AD
+bào_fēng_yǔ	bào-fēng-yǔ	b_C3_A0o_f_C4_93ng_y_C7_94
+yǒu bào_fēng_yǔ	yǒu bào-fēng-yǔ	y_C7_92u_b_C3_A0o_f_C4_93ng_y_C7_94
+yī_gè zhǔ_yì	yī-gè zhǔ-yì	y_C4_AB_g_C3_A8_zh_C7_94_y_C3_AC
+Lìng_wài yī_gè zhǔ_yì	lìng-wài yī-gè zhǔ-yì	l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_zh_C7_94_y_C3_AC
+yī_gè huǒ_chē	yī-gè huǒ-chē	y_C4_AB_g_C3_A8_hu_C7_92_ch_C4_93
+Lìng_wài yī_gè  huǒ_chē	lìng-wài yī-gè huǒ-chē	l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_hu_C7_92_ch_C4_93
+yī_gè diàn_yǐng	yī-gè diàn-yǐng	y_C4_AB_g_C3_A8_di_C3_A0n_y_C7_90ng
+Lìng_wài yī_gè diàn_yǐng	lìng-wài yī-gè diàn-yǐng	l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_di_C3_A0n_y_C7_90ng
+nán_hái	nán-hái	n_C3_A1n_h_C3_A1i
+yī_xiē nán_hái	yī-xiē nán-hái	y_C4_AB_xi_C4_93_n_C3_A1n_h_C3_A1i
+nǚ_hái	nǚ-hái	n_C7_9A_h_C3_A1i
+yī_xiē nǚ_hái	yī-xiē nǚ-hái	y_C4_AB_xi_C4_93_n_C7_9A_h_C3_A1i
+chē	chē	ch_C4_93
+yī_xiē chē	yī-xiē chē	y_C4_AB_xi_C4_93_ch_C4_93
+yǒu_rén	yǒu-rén	y_C7_92u_r_C3_A9n
+mǒu_wù	mǒu-wù	m_C7_92u_w_C3_B9
+méi_yǒu_rén	méi-yǒu-rén	m_C3_A9i_y_C7_92u_r_C3_A9n
+méi_shén_me	méi-shén-me	m_C3_A9i_sh_C3_A9n_me
+dà_jiā	dà-jiā	d_C3_A0_ji_C4_81
+yī_qiè	yī-qiè	y_C4_AB_qi_C3_A8
+děng_děng!	děng-děng	d_C4_9Bng_d_C4_9Bng
+Lái!	lái	l_C3_A1i
+Zǒu!	zǒu	z_C7_92u
+Liú_zhe!	liú-zhe	li_C3_BA_zhe
+Lí_kāi!	lí-kāi	l_C3_AD_k_C4_81i
+Kàn!	kàn	k_C3_A0n
+Tīng!	tīng	t_C4_ABng
+Jì_zhù!	jì-zhù	j_C3_AC_zh_C3_B9
+Dú!	dú	d_C3_BA
+Kàn!	kàn	k_C3_A0n
+Zhuā_zhù!	zhuā-zhù	zhu_C4_81_zh_C3_B9
+Wǒ ài nǐ!	wǒ ài nǐ	w_C7_92__C3_A0i_n_C7_90
+Tā ài tā	tā ài tā	t_C4_81__C3_A0i_t_C4_81
+tā ài tā	tā ài tā	t_C4_81__C3_A0i_t_C4_81
+Tā_men ài tā	tā-men ài tā	t_C4_81_men__C3_A0i_t_C4_81
+zhè_xiē rén ài tā	zhè-xiē rén ài tā	zh_C3_A8_xi_C4_93_r_C3_A9n__C3_A0i_t_C4_81
+zhè_xiē rén ài tā	zhè-xiē rén ài tā	zh_C3_A8_xi_C4_93_r_C3_A9n__C3_A0i_t_C4_81
+wǒ_men ài tā	wǒ-men ài tā	w_C7_92_men__C3_A0i_t_C4_81
+tā ài tā_men	tā ài tā-men	t_C4_81__C3_A0i_t_C4_81_men
+zhè_xiē rén ài tā_men	zhè-xiē rén ài tā-men	zh_C3_A8_xi_C4_93_r_C3_A9n__C3_A0i_t_C4_81_men
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+yī gè gāo de lǎo_shī	yī gè gāo de lǎo-shī	y_C4_AB_g_C3_A8_g_C4_81o_de_l_C7_8Eo_sh_C4_AB
+yī gè cōng_míng de lǎo_shī	yī gè cōng-míng de lǎo-shī	y_C4_AB_g_C3_A8_c_C5_8Dng_m_C3_ADng_de_l_C7_8Eo_sh_C4_AB
+cōng_míng de lǎo_shī	cōng-míng de lǎo-shī	c_C5_8Dng_m_C3_ADng_de_l_C7_8Eo_sh_C4_AB
+gāo de nán_rén	gāo de nán-rén	g_C4_81o_de_n_C3_A1n_r_C3_A9n
+zhè gè cōng_míng de lǎo_shī	zhè gè cōng-míng de lǎo-shī	zh_C3_A8_g_C3_A8_c_C5_8Dng_m_C3_ADng_de_l_C7_8Eo_sh_C4_AB
+zhè gè lǎo_shī hěn cōng_míng	zhè gè lǎo-shī hěn cōng-míng	zh_C3_A8_g_C3_A8_l_C7_8Eo_sh_C4_AB_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+zhè gè gāo de lǎo_shī	zhè gè gāo de lǎo-shī	zh_C3_A8_g_C3_A8_g_C4_81o_de_l_C7_8Eo_sh_C4_AB
+zhè gè lǎo_shī hěn gāo	zhè gè lǎo-shī hěn gāo	zh_C3_A8_g_C3_A8_l_C7_8Eo_sh_C4_AB_h_C4_9Bn_g_C4_81o
+zhè gè gāo de lǎo_shī hěn cōng_míng	zhè gè gāo de lǎo-shī hěn cōng-míng	zh_C3_A8_g_C3_A8_g_C4_81o_de_l_C7_8Eo_sh_C4_AB_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+zhè gè cōng_míng de nán_rén hěn gāo	zhè gè cōng-míng de nán-rén hěn gāo	zh_C3_A8_g_C3_A8_c_C5_8Dng_m_C3_ADng_de_n_C3_A1n_r_C3_A9n_h_C4_9Bn_g_C4_81o
+zǎo_ān! <br> zǎo_ān.	zǎo-ān br zǎo-ān	z_C7_8Eo__C4_81n_br_z_C7_8Eo__C4_81n
+wǎn_ān! <br> wǎn_ān.	wǎn-ān br wǎn-ān	w_C7_8En__C4_81n_br_w_C7_8En__C4_81n
+nǐ hǎo ma? <br> wǒ hǎo, xiè_xiè.	nǐ hǎo ma br wǒ hǎo xiè-xiè	n_C7_90_h_C7_8Eo_ma_br_w_C7_92_h_C7_8Eo_xi_C3_A8_xi_C3_A8
+Xiè_xiè! <br> bú kè_qì.	xiè-xiè br bú kè-qì	xi_C3_A8_xi_C3_A8_br_b_C3_BA_k_C3_A8_q_C3_AC
+nǐ de míng_zi shì shén_me? <br> wǒ de míng_zi shì Adam.	nǐ de míng-zi shì shén-me br wǒ de míng-zi shì adam	n_C7_90_de_m_C3_ADng_zi_sh_C3_AC_sh_C3_A9n_me_br_w_C7_92_de_m_C3_ADng_zi_sh_C3_AC_adam
+yī_gè gōng_gòng_qì_chē	yī-gè gōng-gòng-qì-chē	y_C4_AB_g_C3_A8_g_C5_8Dng_g_C3_B2ng_q_C3_AC_ch_C4_93
+yī_gè fēi_jī	yī-gè fēi-jī	y_C4_AB_g_C3_A8_f_C4_93i_j_C4_AB
+yī_gè chuán	yī-gè chuán	y_C4_AB_g_C3_A8_chu_C3_A1n
+wǒ yǒu yī_gè gǒu	wǒ yǒu yī-gè gǒu	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_g_C7_92u
+wǒ yǒu yī_gè mao	wǒ yǒu yī-gè mao	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_mao
+wǒ yǒu yī_gè mǎ	wǒ yǒu yī-gè mǎ	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_m_C7_8E
+wǒ men yǒu yī_gè mǎ	wǒ men yǒu yī-gè mǎ	w_C7_92_men_y_C7_92u_y_C4_AB_g_C3_A8_m_C7_8E
+tā yǒu yī_gè gǒu	tā yǒu yī-gè gǒu	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_g_C7_92u
+tā yǒu yī_gè gǒu	tā yǒu yī-gè gǒu	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_g_C7_92u
+tā yǒu yī_gè mǎ	tā yǒu yī-gè mǎ	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_m_C7_8E
+zhè_gé lǎo_shī yǒu yī_gè má	zhè-gé lǎo-shī yǒu yī-gè má	zh_C3_A8_g_C3_A9_l_C7_8Eo_sh_C4_AB_y_C7_92u_y_C4_AB_g_C3_A8_m_C3_A1
+zhè_gé lǎo_shī yǒu yī_gè gǒu	zhè-gé lǎo-shī yǒu yī-gè gǒu	zh_C3_A8_g_C3_A9_l_C7_8Eo_sh_C4_AB_y_C7_92u_y_C4_AB_g_C3_A8_g_C7_92u
+nǐ yǒu yī_gè gǒu	nǐ yǒu yī-gè gǒu	n_C7_90_y_C7_92u_y_C4_AB_g_C3_A8_g_C7_92u
+nǐ yǒu yī_gè mao	nǐ yǒu yī-gè mao	n_C7_90_y_C7_92u_y_C4_AB_g_C3_A8_mao
+yī_gè yú	yī-gè yú	y_C4_AB_g_C3_A8_y_C3_BA
+yī_gè niú	yī-gè niú	y_C4_AB_g_C3_A8_ni_C3_BA
+yī_gè niǎo	yī-gè niǎo	y_C4_AB_g_C3_A8_ni_C7_8Eo
+nǐ cóng nǎ_li lái? <BR> wǒ cóng fǎ_guó lài.	nǐ cóng nǎ-li lái br wǒ cóng fǎ-guó lài	n_C7_90_c_C3_B3ng_n_C7_8E_li_l_C3_A1i_br_w_C7_92_c_C3_B3ng_f_C7_8E_gu_C3_B3_l_C3_A0i
+nǐ jǐ suì? <BR> wǒ èr_shí suì.	nǐ jǐ suì br wǒ èr-shí suì	n_C7_90_j_C7_90_su_C3_AC_br_w_C7_92__C3_A8r_sh_C3_AD_su_C3_AC
+nǐ yào shén_me? <BR> wǒ yào chī fàn.	nǐ yào shén-me br wǒ yào chī fàn	n_C7_90_y_C3_A0o_sh_C3_A9n_me_br_w_C7_92_y_C3_A0o_ch_C4_AB_f_C3_A0n
+nǐ zài zhǎo shén_me? <BR> wǒ zài zhǎo cān_tīng.	nǐ zài zhǎo shén-me br wǒ zài zhǎo cān-tīng	n_C7_90_z_C3_A0i_zh_C7_8Eo_sh_C3_A9n_me_br_w_C7_92_z_C3_A0i_zh_C7_8Eo_c_C4_81n_t_C4_ABng
+yī_gè nán_hái	yī-gè nán-hái	y_C4_AB_g_C3_A8_n_C3_A1n_h_C3_A1i
+yī_gè nǚ_hái	yī-gè nǚ-hái	y_C4_AB_g_C3_A8_n_C7_9A_h_C3_A1i
+wǒ_men yào yī_gè chē	wǒ-men yào yī-gè chē	w_C7_92_men_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+zhè_gé nán_rén yào yī_gè fáng_zi	zhè-gé nán-rén yào yī-gè fáng-zi	zh_C3_A8_g_C3_A9_n_C3_A1n_r_C3_A9n_y_C3_A0o_y_C4_AB_g_C3_A8_f_C3_A1ng_zi
+zhè_gé nán_rén yào yī_gè chē	zhè-gé nán-rén yào yī-gè chē	zh_C3_A8_g_C3_A9_n_C3_A1n_r_C3_A9n_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+nǐ yào yī_gè chē	nǐ yào yī-gè chē	n_C7_90_y_C3_A0o_y_C4_AB_g_C3_A8_ch_C4_93
+nǐ yào yī_gè fang_zi	nǐ yào yī-gè fang-zi	n_C7_90_y_C3_A0o_y_C4_AB_g_C3_A8_fang_zi
+{yī_gè [​​xiǎo](wèn_tí)}	yī-gè xiǎo	y_C4_AB_g_C3_A8_xi_C7_8Eo_w_C3_A8n_t_C3_AD
+{yī_gè [​​dà]​​ wèn_tí}	yī-gè dà wèn-tí	y_C4_AB_g_C3_A8_d_C3_A0_w_C3_A8n_t_C3_AD
+{[lìng_wài] yī_gè wèn_tí }	lìng-wài yī-gè wèn-tí	l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_w_C3_A8n_t_C3_AD
+{yī_gè [​​dà ]​​( fáng_zi)}	yī-gè dà	y_C4_AB_g_C3_A8_d_C3_A0_f_C3_A1ng_zi
+{[qí_tā(wèn_tí)}	qí-tā	q_C3_AD_t_C4_81_w_C3_A8n_t_C3_AD
+{[hǎo] de wèn_tí}	hǎo de wèn-tí	h_C7_8Eo_de_w_C3_A8n_t_C3_AD
+{[xǔ_duō ] wèn_tí}	xǔ-duō wèn-tí	x_C7_94_du_C5_8D_w_C3_A8n_t_C3_AD
+[yī_gè jiù chē]	yī-gè jiù chē	y_C4_AB_g_C3_A8_ji_C3_B9_ch_C4_93
+[yī_gè hǎo chē]	yī-gè hǎo chē	y_C4_AB_g_C3_A8_h_C7_8Eo_ch_C4_93
+{ yī_gè [xīn](chē)}	yī-gè xīn	y_C4_AB_g_C3_A8_x_C4_ABn_ch_C4_93
+{zhè_gé rén}	zhè-gé rén	zh_C3_A8_g_C3_A9_r_C3_A9n
+{wǒ de [diàn_huà (hào_mǎ)}	wǒ de diàn-huà	w_C7_92_de_di_C3_A0n_hu_C3_A0_h_C3_A0o_m_C7_8E
+{wǒ [xīn] de (dì_zhǐ)}	wǒ xīn de	w_C7_92_x_C4_ABn_de_d_C3_AC_zh_C7_90
+{wǒ de [hù_zhào]}	wǒ de hù-zhào	w_C7_92_de_h_C3_B9_zh_C3_A0o
+{(xìn)} lái_le	lái-le	x_C3_ACn_l_C3_A1i_le
+{(rén)} lái_le	lái-le	r_C3_A9n_l_C3_A1i_le
+{(kè_ren)} lái_le	lái-le	k_C3_A8_ren_l_C3_A1i_le
+tā yào { yī_gè (piào)}	tā yào yī-gè	t_C4_81_y_C3_A0o_y_C4_AB_g_C3_A8_pi_C3_A0o
+wǒ chī {jī}	wǒ chī jī	w_C7_92_ch_C4_AB_j_C4_AB
+wǒ chī {nǎi_lào}	wǒ chī nǎi-lào	w_C7_92_ch_C4_AB_n_C7_8Ei_l_C3_A0o
+wǒ kàn_dào {gōng_gòng_qì_chē } le	wǒ kàn-dào gōng-gòng-qì-chē le	w_C7_92_k_C3_A0n_d_C3_A0o_g_C5_8Dng_g_C3_B2ng_q_C3_AC_ch_C4_93_le
+wǒ kàn_dào {huǒ_chē } le	wǒ kàn-dào huǒ-chē le	w_C7_92_k_C3_A0n_d_C3_A0o_hu_C7_92_ch_C4_93_le
+wǒ kàn_dào {fēi_jī } le	wǒ kàn-dào fēi-jī le	w_C7_92_k_C3_A0n_d_C3_A0o_f_C4_93i_j_C4_AB_le
+Wǒ yǒu {yī_gè [xiǎo ](wèn_tí)}	wǒ yǒu yī-gè xiǎo	w_C7_92_y_C7_92u_y_C4_AB_g_C3_A8_xi_C7_8Eo_w_C3_A8n_t_C3_AD
+wǒ_men yǒu {yī_gè [dà ](wèn_tí)}	wǒ-men yǒu yī-gè dà	w_C7_92_men_y_C7_92u_y_C4_AB_g_C3_A8_d_C3_A0_w_C3_A8n_t_C3_AD
+tā yǒu {[lìng_wài_] yī_gè wèn_tí}	tā yǒu lìng-wài- yī-gè wèn-tí	t_C4_81_y_C7_92u_l_C3_ACng_w_C3_A0i__y_C4_AB_g_C3_A8_w_C3_A8n_t_C3_AD
+wǒ_men yǒu {yī_gè [dà ](fang_zi)}	wǒ-men yǒu yī-gè dà	w_C7_92_men_y_C7_92u_y_C4_AB_g_C3_A8_d_C3_A0_fang_zi
+tā yǒu {yī_gè [xīn ](fang_zi)}	tā yǒu yī-gè xīn	t_C4_81_y_C7_92u_y_C4_AB_g_C3_A8_x_C4_ABn_fang_zi
+tā_men yǒu {yī_gè [jiù ] fang_zi}	tā-men yǒu yī-gè jiù fang-zi	t_C4_81_men_y_C7_92u_y_C4_AB_g_C3_A8_ji_C3_B9_fang_zi
+nǐ yǒu {[qí_tā ](wèn_tí)}	nǐ yǒu qí-tā	n_C7_90_y_C7_92u_q_C3_AD_t_C4_81_w_C3_A8n_t_C3_AD
+tā_men yǒu {[hǎo ] de wèn_tí}	tā-men yǒu hǎo de wèn-tí	t_C4_81_men_y_C7_92u_h_C7_8Eo_de_w_C3_A8n_t_C3_AD
+wǒ_men yǒu {[xǔ_duō] wèn_tí}	wǒ-men yǒu xǔ-duō wèn-tí	w_C7_92_men_y_C7_92u_x_C7_94_du_C5_8D_w_C3_A8n_t_C3_AD
+{zhè_ge (nǚ_rén )} yǒu yī_gè xīn [chú_fáng]	zhè-ge yǒu yī-gè xīn chú-fáng	zh_C3_A8_ge_n_C7_9A_r_C3_A9n_y_C7_92u_y_C4_AB_g_C3_A8_x_C4_ABn_ch_C3_BA_f_C3_A1ng
+{zhè_ge (nán_rén )} yǒu [yī_gè jiù chē]	zhè-ge yǒu yī-gè jiù chē	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_y_C7_92u_y_C4_AB_g_C3_A8_ji_C3_B9_ch_C4_93
+{zhè_ge (rén )} yǒu [yī_gè hǎo chē]	zhè-ge yǒu yī-gè hǎo chē	zh_C3_A8_ge_r_C3_A9n_y_C7_92u_y_C4_AB_g_C3_A8_h_C7_8Eo_ch_C4_93
+tā méi_yǒu {yī_gè [xīn ](chē)}	tā méi-yǒu yī-gè xīn	t_C4_81_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_x_C4_ABn_ch_C4_93
+tā_men méi_yǒu {[qí_tā ] de (wèn_tí)}	tā-men méi-yǒu qí-tā de	t_C4_81_men_m_C3_A9i_y_C7_92u_q_C3_AD_t_C4_81_de_w_C3_A8n_t_C3_AD
+wǒ_men méi_yǒu {[rèn_hé] wèn_tí}	wǒ-men méi-yǒu rèn-hé wèn-tí	w_C7_92_men_m_C3_A9i_y_C7_92u_r_C3_A8n_h_C3_A9_w_C3_A8n_t_C3_AD
+{zhè_ge nǚ_​​rén } méi_yǒu [yī_gè hǎo chē]	zhè-ge nǚ- rén méi-yǒu yī-gè hǎo chē	zh_C3_A8_ge_n_C7_9A__r_C3_A9n_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_h_C7_8Eo_ch_C4_93
+{zhè_ge nán_rén} méi_yǒu [yī_gè jiù chē]	zhè-ge nán-rén méi-yǒu yī-gè jiù chē	zh_C3_A8_ge_n_C3_A1n_r_C3_A9n_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_ji_C3_B9_ch_C4_93
+{zhè_ge rén } méi_yǒu [yī_gè xīn chē]	zhè-ge rén méi-yǒu yī-gè xīn chē	zh_C3_A8_ge_r_C3_A9n_m_C3_A9i_y_C7_92u_y_C4_AB_g_C3_A8_x_C4_ABn_ch_C4_93
+wǒ shì {[xīn_lái_] de (lǎo_shī)}	wǒ shì xīn-lái- de	w_C7_92_sh_C3_AC_x_C4_ABn_l_C3_A1i__de_l_C7_8Eo_sh_C4_AB
+wǒ shì {[xīn_lái_] de (jīng_lǐ)}	wǒ shì xīn-lái- de	w_C7_92_sh_C3_AC_x_C4_ABn_l_C3_A1i__de_j_C4_ABng_l_C7_90
+wǒ shì {xīn_lái_de (fān_yì)}	wǒ shì xīn-lái-de	w_C7_92_sh_C3_AC_x_C4_ABn_l_C3_A1i_de_f_C4_81n_y_C3_AC
+tā [xiàn_zài] zài (xué_xiào)	tā xiàn-zài zài	t_C4_81_xi_C3_A0n_z_C3_A0i_z_C3_A0i_xu_C3_A9_xi_C3_A0o
+tā xiàn_zài zài (jī_chǎng)	tā xiàn-zài zài	t_C4_81_xi_C3_A0n_z_C3_A0i_z_C3_A0i_j_C4_AB_ch_C7_8Eng
+tā_men xiàn_zài zài (yī_yuàn)	tā-men xiàn-zài zài	t_C4_81_men_xi_C3_A0n_z_C3_A0i_z_C3_A0i_y_C4_AB_yu_C3_A0n
+nǐ {hěn [hé_ǎi]} (m) % nǐ_men {hěn [hé_ǎi]} (p)	nǐ hěn hé-ǎi%nǐ-men hěn hé-ǎi	n_C7_90_h_C4_9Bn_h_C3_A9__C7_8Ei_m_25n_C7_90_men_h_C4_9Bn_h_C3_A9__C7_8Ei_p
+tā {hěn [piào_liang]}	tā hěn piào-liang	t_C4_81_h_C4_9Bn_pi_C3_A0o_liang
+wǒ_men {(fēi_cháng)[kuài_lè]}	wǒ-men kuài-lè	w_C7_92_men_f_C4_93i_ch_C3_A1ng_ku_C3_A0i_l_C3_A8
+{wǒ_men de (lín_jū )} fēi_cháng [chǎo_nào]	wǒ-men de fēi-cháng chǎo-nào	w_C7_92_men_de_l_C3_ADn_j_C5_AB_f_C4_93i_ch_C3_A1ng_ch_C7_8Eo_n_C3_A0o
+{wǒ de (péng_yǒu)} hěn [cōng_míng]	wǒ de hěn cōng-míng	w_C7_92_de_p_C3_A9ng_y_C7_92u_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+{wǒ_men de (tóng_shì )} hěn [ān_jìng]	wǒ-men de hěn ān-jìng	w_C7_92_men_de_t_C3_B3ng_sh_C3_AC_h_C4_9Bn__C4_81n_j_C3_ACng
+{dà_bù_fèn de (rén )} hěn [hé_ǎi]	dà-bù-fèn de hěn hé-ǎi	d_C3_A0_b_C3_B9_f_C3_A8n_de_r_C3_A9n_h_C4_9Bn_h_C3_A9__C7_8Ei
+{dà_bù_fèn de (xiǎo_hái )} hěn [cōng_míng]	dà-bù-fèn de hěn cōng-míng	d_C3_A0_b_C3_B9_f_C3_A8n_de_xi_C7_8Eo_h_C3_A1i_h_C4_9Bn_c_C5_8Dng_m_C3_ADng
+{dà_bù_fèn de (shū)} shì xīn de	dà-bù-fèn de shì xīn de	d_C3_A0_b_C3_B9_f_C3_A8n_de_sh_C5_AB_sh_C3_AC_x_C4_ABn_de
+wǒ cóng {[lìng_wài] yī_gè (guó_jiā)} lái	wǒ cóng lìng-wài yī-gè lái	w_C7_92_c_C3_B3ng_l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_gu_C3_B3_ji_C4_81_l_C3_A1i
+tā cóng {lìng_wài yī_gè (dì_fāng)} lái	tā cóng lìng-wài yī-gè lái	t_C4_81_c_C3_B3ng_l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_d_C3_AC_f_C4_81ng_l_C3_A1i
+tā_men cóng {lìng_wài yī_gè (chén_shì)} lái	tā-men cóng lìng-wài yī-gè lái	t_C4_81_men_c_C3_B3ng_l_C3_ACng_w_C3_A0i_y_C4_AB_g_C3_A8_ch_C3_A9n_sh_C3_AC_l_C3_A1i
+{zhè_ge (shū)} bù [hǎo]	zhè-ge bù hǎo	zh_C3_A8_ge_sh_C5_AB_b_C3_B9_h_C7_8Eo
+{zhè_ge (shí_wù )} bù [gān_jìng]	zhè-ge bù gān-jìng	zh_C3_A8_ge_sh_C3_AD_w_C3_B9_b_C3_B9_g_C4_81n_j_C3_ACng
+{zhè_ge (gong_gòng_qì_chē)} bù_cuò	zhè-ge bù-cuò	zh_C3_A8_ge_gong_g_C3_B2ng_q_C3_AC_ch_C4_93_b_C3_B9_cu_C3_B2
+{fēi_cháng gǎn_xiè nǐ } de [bang_máng]! (bú kè_qì)	fēi-cháng gǎn-xiè nǐ de bang-máng	f_C4_93i_ch_C3_A1ng_g_C7_8En_xi_C3_A8_n_C7_90_de_bang_m_C3_A1ng_b_C3_BA_k_C3_A8_q_C3_AC
+xiè_xiè nín qíng wǒ chī {[hǎo ] chī de (shí_wù)}! bú kè_qì	xiè-xiè nín qíng wǒ chī hǎo chī de bú kè-qì	xi_C3_A8_xi_C3_A8_n_C3_ADn_q_C3_ADng_w_C7_92_ch_C4_AB_h_C7_8Eo_ch_C4_AB_de_sh_C3_AD_w_C3_B9_b_C3_BA_k_C3_A8_q_C3_AC
+[xiè_xiè nǐ] xiǎng de {zhè (zhù_yì)}! bú kè_qì	xiè-xiè nǐ xiǎng de zhè bú kè-qì	xi_C3_A8_xi_C3_A8_n_C7_90_xi_C7_8Eng_de_zh_C3_A8_zh_C3_B9_y_C3_AC_b_C3_BA_k_C3_A8_q_C3_AC
+{[duì_bù_qǐ] dǎ_rǎo nǐ}. (Méi_guān_xì)	duì-bù-qǐ dǎ-rǎo nǐ	du_C3_AC_b_C3_B9_q_C7_90_d_C7_8E_r_C7_8Eo_n_C7_90_m_C3_A9i_gu_C4_81n_x_C3_AC
+{duì_bù_qǐ (zhè_yàng zuò)}. Méi_guān_xì	duì-bù-qǐ méi-guān-xì	du_C3_AC_b_C3_B9_q_C7_90_zh_C3_A8_y_C3_A0ng_zu_C3_B2_m_C3_A9i_gu_C4_81n_x_C3_AC
+duì_bù_qǐ wèn zhè (wèn_tí ). Méi_guān_xì	duì-bù-qǐ wèn zhè méi-guān-xì	du_C3_AC_b_C3_B9_q_C7_90_w_C3_A8n_zh_C3_A8_w_C3_A8n_t_C3_AD_m_C3_A9i_gu_C4_81n_x_C3_AC
+{nǐ hái hǎo ma}? [Wǒ hái hǎo ], (xiè_xiè)	nǐ hái hǎo ma wǒ hái hǎo	n_C7_90_h_C3_A1i_h_C7_8Eo_ma_w_C7_92_h_C3_A1i_h_C7_8Eo_xi_C3_A8_xi_C3_A8
+nǐ (xiàn_zài ) hǎo ma ? {[Hǎo duō ] le }, xiè_xiè	nǐ hǎo ma hǎo duō le xiè-xiè	n_C7_90_xi_C3_A0n_z_C3_A0i_h_C7_8Eo_ma_h_C7_8Eo_du_C5_8D_le_xi_C3_A8_xi_C3_A8
+{nǐ hǎo }! [(Wǒ de míng_zì ) shì Adam]	nǐ hǎo shì adam	n_C7_90_h_C7_8Eo_w_C7_92_de_m_C3_ADng_z_C3_AC_sh_C3_AC_adam
+nǐ hǎo ! {Nǐ jiào shén_me [míng_zì]}?	nǐ hǎo nǐ jiào shén-me míng-zì	n_C7_90_h_C7_8Eo_n_C7_90_ji_C3_A0o_sh_C3_A9n_me_m_C3_ADng_z_C3_AC
+Nǐ hǎo ! {Nǐ cóng nǎ_li lái}?	nǐ hǎo nǐ cóng nǎ-li lái	n_C7_90_h_C7_8Eo_n_C7_90_c_C3_B3ng_n_C7_8E_li_l_C3_A1i
+[Duì_bù_qǐ],{nǐ kě_yǐ bāng wǒ ma}?	duì-bù-qǐ nǐ kě-yǐ bāng wǒ ma	du_C3_AC_b_C3_B9_q_C7_90_n_C7_90_k_C4_9B_y_C7_90_b_C4_81ng_w_C7_92_ma
+Duì_bù_qǐ,{nǐ kě bù kě_yǐ ràng wǒ kàn yī_xià (zhè dōng_xī)}?	duì-bù-qǐ nǐ kě bù kě-yǐ ràng wǒ kàn yī-xià	du_C3_AC_b_C3_B9_q_C7_90_n_C7_90_k_C4_9B_b_C3_B9_k_C4_9B_y_C7_90_r_C3_A0ng_w_C7_92_k_C3_A0n_y_C4_AB_xi_C3_A0_zh_C3_A8_d_C5_8Dng_x_C4_AB
+Duì_bù_qǐ, nǐ {kě_yǐ (màn_man ) shuō ma}?	duì-bù-qǐ nǐ kě-yǐ shuō ma	du_C3_AC_b_C3_B9_q_C7_90_n_C7_90_k_C4_9B_y_C7_90_m_C3_A0n_man_shu_C5_8D_ma
+Qíng {gěi wǒ (yī_diǎn [shí_wù])}	qíng gěi wǒ	q_C3_ADng_g_C4_9Bi_w_C7_92_y_C4_AB_di_C7_8En_sh_C3_AD_w_C3_B9
+[qíng ] gěi wǒ {yī_diǎn [shuǐ]}	qíng gěi wǒ yī-diǎn shuǐ	q_C3_ADng_g_C4_9Bi_w_C7_92_y_C4_AB_di_C7_8En_shu_C7_90
+qíng gěi wǒ [yī_gè (dì_fāng ) shuì_jiào]	qíng gěi wǒ yī-gè shuì-jiào	q_C3_ADng_g_C4_9Bi_w_C7_92_y_C4_AB_g_C3_A8_d_C3_AC_f_C4_81ng_shu_C3_AC_ji_C3_A0o
+zhè shì {wǒ de [diàn_huà](hào_mǎ)}	zhè shì wǒ de diàn-huà	zh_C3_A8_sh_C3_AC_w_C7_92_de_di_C3_A0n_hu_C3_A0_h_C3_A0o_m_C7_8E
+zhè shì {wǒ [xīn] de (dì_zhǐ)}	zhè shì wǒ xīn de	zh_C3_A8_sh_C3_AC_w_C7_92_x_C4_ABn_de_d_C3_AC_zh_C7_90
+zhè shì {wǒ de [hú_zào]}	zhè shì wǒ de hú-zào	zh_C3_A8_sh_C3_AC_w_C7_92_de_h_C3_BA_z_C3_A0o
+{[cè_suǒ]} zài nǎ_li?	cè-suǒ zài nǎ-li	c_C3_A8_su_C7_92_z_C3_A0i_n_C7_8E_li
+{[Nǐ ] jiā } zài nǎ_li?	nǐ jiā zài nǎ-li	n_C7_90_ji_C4_81_z_C3_A0i_n_C7_8E_li
+{Wǒ de [fang_jiān ]} zài nǎ_li?	wǒ de fang-jiān zài nǎ-li	w_C7_92_de_fang_ji_C4_81n_z_C3_A0i_n_C7_8E_li
+Wǒ kě bù kě_yǐ {dǎ yī_gè [diàn_huà]}?	wǒ kě bù kě-yǐ dǎ yī-gè diàn-huà	w_C7_92_k_C4_9B_b_C3_B9_k_C4_9B_y_C7_90_d_C7_8E_y_C4_AB_g_C3_A8_di_C3_A0n_hu_C3_A0
+Nǐ kě bù kě_yǐ bang_zhù wǒ?	nǐ kě bù kě-yǐ bang-zhù wǒ	n_C7_90_k_C4_9B_b_C3_B9_k_C4_9B_y_C7_90_bang_zh_C3_B9_w_C7_92
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	

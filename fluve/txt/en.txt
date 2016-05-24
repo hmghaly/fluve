@@ -1,0 +1,656 @@
+a man	a man	a_man
+the man	the man	the_man
+{this man}	this man	this_man
+he is smart	he is smart	he_is_smart
+this man is smart	this man is smart	this_man_is_smart
+he is kind	he is kind	he_is_kind
+this man is kind	this man is kind	this_man_is_kind
+he is tall	he is tall	he_is_tall
+this man is tall	this man is tall	this_man_is_tall
+a smart man	a smart man	a_smart_man
+this smart man	this smart man	this_smart_man
+a kind man	a kind man	a_kind_man
+this kind man	this kind man	this_kind_man
+a tall man	a tall man	a_tall_man
+this tall man	this tall man	this_tall_man
+he reads	he reads	he_reads
+this man reads	this man reads	this_man_reads
+he eats	he eats	he_eats
+this man eats	this man eats	this_man_eats
+he drinks	he drinks	he_drinks
+this man drinks	this man drinks	this_man_drinks
+he sings	he sings	he_sings
+the man who sings	the man who sings	the_man_who_sings
+he cooks	he cooks	he_cooks
+the man who cooks	the man who cooks	the_man_who_cooks
+he swims	he swims	he_swims
+the man who swims	the man who swims	the_man_who_swims
+he is a teacher	he is a teacher	he_is_a_teacher
+this man is a teacher	this man is a teacher	this_man_is_a_teacher
+he is a doctor	he is a doctor	he_is_a_doctor
+this man is a doctor	this man is a doctor	this_man_is_a_doctor
+he is a translator	he is a translator	he_is_a_translator
+this man is a translator	this man is a translator	this_man_is_a_translator
+my father	my father	my_father
+his father	his father	his_father
+her father	her father	her_father
+your father	your father	your_father
+my father is a teacher	my father is a teacher	my_father_is_a_teacher
+his father is a doctor	his father is a doctor	his_father_is_a_doctor
+her father is a translator	her father is a translator	her_father_is_a_translator
+my father is a doctor	my father is a doctor	my_father_is_a_doctor
+your father is a teacher	your father is a teacher	your_father_is_a_teacher
+a cat	a cat	a_cat
+the cat	the cat	the_cat
+this cat	this cat	this_cat
+my cat	my cat	my_cat
+your cat	your cat	your_cat
+our cat	our cat	our_cat
+his cat	his cat	his_cat
+her cat	her cat	her_cat
+their cat	their cat	their_cat
+a big cat	a big cat	a_big_cat
+my cat is big	my cat is big	my_cat_is_big
+a black cat	a black cat	a_black_cat
+his cat is black	his cat is black	his_cat_is_black
+a small cat	a small cat	a_small_cat
+her cat is small	her cat is small	her_cat_is_small
+a dog	a dog	a_dog
+the dog	the dog	the_dog
+this dog	this dog	this_dog
+my dog	my dog	my_dog
+my father's dog	my father's dog	my_father_s_dog
+his dog	his dog	his_dog
+his father's dog	his father's dog	his_father_s_dog
+her dog	her dog	her_dog
+her father's dog	her father's dog	her_father_s_dog
+a bag	a bag	a_bag
+the bag	the bag	the_bag
+this bag	this bag	this_bag
+I want a bag	i want a bag	i_want_a_bag
+he wants {a (bag)}	he wants a	he_wants_a_bag
+I want a car	i want a car	i_want_a_car
+he wants {a (car)}	he wants a	he_wants_a_car
+I want a house	i want a house	i_want_a_house
+he wants a house	he wants a house	he_wants_a_house
+a woman	a woman	a_woman
+the woman	the woman	the_woman
+{this woman}	this woman	this_woman
+She wants a car	she wants a car	she_wants_a_car
+This woman wants a car	this woman wants a car	this_woman_wants_a_car
+she wants a bag	she wants a bag	she_wants_a_bag
+This woman wants a bag	this woman wants a bag	this_woman_wants_a_bag
+She wants a house	she wants a house	she_wants_a_house
+this woman wants a house	this woman wants a house	this_woman_wants_a_house
+a house	a house	a_house
+the house	the house	the_house
+this house	this house	this_house
+{a [new] house}	a new house	a_new_house
+this house is new	this house is new	this_house_is_new
+{an [old] house}	an old house	an_old_house
+this house is old	this house is old	this_house_is_old
+a nice house	a nice house	a_nice_house
+this house is nice	this house is nice	this_house_is_nice
+We want a house	we want a house	we_want_a_house
+we want a new house	we want a new house	we_want_a_new_house
+they want a house	they want a house	they_want_a_house
+they want a new house	they want a new house	they_want_a_new_house
+we want a nice house	we want a nice house	we_want_a_nice_house
+they want a nice house	they want a nice house	they_want_a_nice_house
+what?	what	what
+where?	where	where
+when?	when	when
+who?	who	who
+why?	why	why
+how?	how	how
+how much?	how much	how_much
+men	men	men
+the men	the men	the_men
+these men	these men	these_men
+What do you want?	what do you want	what_do_you_want
+What does she want?	what does she want	what_does_she_want
+what does this woman want?	what does this woman want	what_does_this_woman_want
+what does he want?	what does he want	what_does_he_want
+what does this man want?	what does this man want	what_does_this_man_want
+What do they want?	what do they want	what_do_they_want
+what do these men want?	what do these men want	what_do_these_men_want
+soup	soup	soup
+rice	rice	rice
+pasta	pasta	pasta
+bread	bread	bread
+salad	salad	salad
+cheese	cheese	cheese
+chicken	chicken	chicken
+meat	meat	meat
+vegetables	vegetables	vegetables
+fish	fish	fish
+fruits	fruits	fruits
+pork	pork	pork
+he	he	he
+she	she	she
+I	i	i
+we	we	we
+they	they	they
+you	you	you
+it	it	it
+what is this?	what is this	what_is_this
+what happened?	what happened	what_happened
+what else?	what else	what_else
+what's wrong?	what's wrong	what_s_wrong
+I want to eat	i want to eat	i_want_to_eat
+she wants to eat	she wants to eat	she_wants_to_eat
+I want to drink	i want to drink	i_want_to_drink
+she wants to drink	she wants to drink	she_wants_to_drink
+I want to read	i want to read	i_want_to_read
+she wants to read	she wants to read	she_wants_to_read
+I eat	i eat	i_eat
+we eat	we eat	we_eat
+she eats	she eats	she_eats
+you eat	you eat	you_eat
+they eat	they eat	they_eat
+I eat {pasta}	i eat pasta	i_eat_pasta
+he eats pasta	he eats pasta	he_eats_pasta
+she eats fruits	she eats fruits	she_eats_fruits
+we eat fish	we eat fish	we_eat_fish
+they eat cheese	they eat cheese	they_eat_cheese
+you eat chicken	you eat chicken	you_eat_chicken
+I don't eat meat	i don't eat meat	i_don_t_eat_meat
+she doesn't eat meat	she doesn't eat meat	she_doesn_t_eat_meat
+I don't eat pork	i don't eat pork	i_don_t_eat_pork
+she doesn't eat pork	she doesn't eat pork	she_doesn_t_eat_pork
+they don't eat fish	they don't eat fish	they_don_t_eat_fish
+they don't eat cheese	they don't eat cheese	they_don_t_eat_cheese
+he doesn't eat pasta	he doesn't eat pasta	he_doesn_t_eat_pasta
+he doesn't eat fruits	he doesn't eat fruits	he_doesn_t_eat_fruits
+what did you do?	what did you do	what_did_you_do
+What did you say?	what did you say	what_did_you_say
+what did she do?	what did she do	what_did_she_do
+What did she say?	what did she say	what_did_she_say
+what did he do?	what did he do	what_did_he_do
+what did he say?	what did he say	what_did_he_say
+who are you?	who are you	who_are_you
+who is he?	who is he	who_is_he
+who is this man?	who is this man	who_is_this_man
+who is she?	who is she	who_is_she
+who is this woman?	who is this woman	who_is_this_woman
+who are they?	who are they	who_are_they
+who are these men?	who are these men	who_are_these_men
+I speak English	i speak english	i_speak_english
+she speaks English	she speaks english	she_speaks_english
+we speak English	we speak english	we_speak_english
+they speak English	they speak english	they_speak_english
+you speak English	you speak english	you_speak_english
+he speaks English	he speaks english	he_speaks_english
+people	people	people
+the people	the people	the_people
+these people	these people	these_people
+I don't speak English	i don't speak english	i_don_t_speak_english
+she doesn't speak English	she doesn't speak english	she_doesn_t_speak_english
+this woman doesn't speak English	this woman doesn't speak english	this_woman_doesn_t_speak_english
+he doesn't speak English	he doesn't speak english	he_doesn_t_speak_english
+this man doesn't speak English	this man doesn't speak english	this_man_doesn_t_speak_english
+they don't speak English	they don't speak english	they_don_t_speak_english
+these people don't speak English	these people don't speak english	these_people_don_t_speak_english
+do you speak English?	do you speak english	do_you_speak_english
+does she speak English?	does she speak english	does_she_speak_english
+does this woman speak English?	does this woman speak english	does_this_woman_speak_english
+does he speak English?	does he speak english	does_he_speak_english
+does this man speak English?	does this man speak english	does_this_man_speak_english
+do they speak English?	do they speak english	do_they_speak_english
+do these people speak English?	do these people speak english	do_these_people_speak_english
+my name	my name	my_name
+his name	his name	his_name
+her name	her name	her_name
+your name	your name	your_name
+what is your name?	what is your name	what_is_your_name
+what is his name?	what is his name	what_is_his_name
+what is her name?	what is her name	what_is_her_name
+the address	the address	the_address
+my address	my address	my_address
+your address	your address	your_address
+his address	his address	his_address
+her address	her address	her_address
+our address	our address	our_address
+their address	their address	their_address
+I know {his [name]}	i know his name	i_know_his_name
+I know his address	i know his address	i_know_his_address
+he knows my address	he knows my address	he_knows_my_address
+he knows her name	he knows her name	he_knows_her_name
+she knows their address	she knows their address	she_knows_their_address
+she knows his name	she knows his name	she_knows_his_name
+this woman knows my address	this woman knows my address	this_woman_knows_my_address
+they know our address	they know our address	they_know_our_address
+these people know his name	these people know his name	these_people_know_his_name
+I don't know	i don't know	i_don_t_know
+he doesn't know	he doesn't know	he_doesn_t_know
+this man doesn't know	this man doesn't know	this_man_doesn_t_know
+she doesn't know	she doesn't know	she_doesn_t_know
+this woman doesn't know	this woman doesn't know	this_woman_doesn_t_know
+they don't know	they don't know	they_don_t_know
+these people don't know	these people don't know	these_people_don_t_know
+my mother	my mother	my_mother
+your mother	your mother	your_mother
+his mother	his mother	his_mother
+her mother	her mother	her_mother
+I can swim	i can swim	i_can_swim
+he can swim	he can swim	he_can_swim
+my father can swim	my father can swim	my_father_can_swim
+she can swim	she can swim	she_can_swim
+my mother can swim	my mother can swim	my_mother_can_swim
+you can swim	you can swim	you_can_swim
+we can swim	we can swim	we_can_swim
+they can swin	they can swin	they_can_swin
+these people can swim	these people can swim	these_people_can_swim
+a problem	a problem	a_problem
+the problem	the problem	the_problem
+this problem	this problem	this_problem
+my problem	my problem	my_problem
+his problem	his problem	his_problem
+her problem	her problem	her_problem
+your problem	your problem	your_problem
+our problem	our problem	our_problem
+their problem	their problem	their_problem
+a car	a car	a_car
+the car	the car	the_car
+this car	this car	this_car
+I have a house	i have a house	i_have_a_house
+I have a car	i have a car	i_have_a_car
+she has a house	she has a house	she_has_a_house
+she has a car	she has a car	she_has_a_car
+She has a cat	she has a cat	she_has_a_cat
+he has a house	he has a house	he_has_a_house
+he has a cat	he has a cat	he_has_a_cat
+they have a car	they have a car	they_have_a_car
+they have a house	they have a house	they_have_a_house
+We have a cat	we have a cat	we_have_a_cat
+we have a house	we have a house	we_have_a_house
+I don't have a house	i don't have a house	i_don_t_have_a_house
+I don't have a car	i don't have a car	i_don_t_have_a_car
+she doesn't have a house	she doesn't have a house	she_doesn_t_have_a_house
+she doesn't have a car	she doesn't have a car	she_doesn_t_have_a_car
+she doesn't have a cat	she doesn't have a cat	she_doesn_t_have_a_cat
+he doesn't have a house	he doesn't have a house	he_doesn_t_have_a_house
+he doesn't have a cat	he doesn't have a cat	he_doesn_t_have_a_cat
+they don't have a car	they don't have a car	they_don_t_have_a_car
+they don't have a house	they don't have a house	they_don_t_have_a_house
+we don't have a cat	we don't have a cat	we_don_t_have_a_cat
+we don't have a house	we don't have a house	we_don_t_have_a_house
+really?	really	really
+sure?	sure	sure
+and you?	and you	and_you
+finished?	finished	finished
+right?	right	right
+good morning!	good morning	good_morning
+good evening!	good evening	good_evening
+Hello!	hello	hello
+Welcome!	welcome	welcome
+Thank you!	thank you	thank_you
+You are welcome!	you are welcome	you_are_welcome
+Excuse me!	excuse me	excuse_me
+Sorry!	sorry	sorry
+It's ok	it's ok	it_s_ok
+Good Bye!	good bye	good_bye
+Here you are	here you are	here_you_are
+Please!	please	please
+where are you from?	where are you from	where_are_you_from
+where are you?	where are you	where_are_you
+where is he?	where is he	where_is_he
+where is she?	where is she	where_is_she
+where are we?	where are we	where_are_we
+where are they?	where are they	where_are_they
+Where am I?	where am i	where_am_i
+now	now	now
+today	today	today
+tomorrow	tomorrow	tomorrow
+yesterday	yesterday	yesterday
+later	later	later
+next week	next week	next_week
+last week	last week	last_week
+next month	next month	next_month
+last month	last month	last_month
+sometimes	sometimes	sometimes
+always	always	always
+often	often	often
+rarely	rarely	rarely
+yes	yes	yes
+no	no	no
+of course	of course	of_course
+not sure	not sure	not_sure
+not yet	not yet	not_yet
+maybe	maybe	maybe
+ok	ok	ok
+I don't think so	i don't think so	i_don_t_think_so
+no idea	no idea	no_idea
+No Problem!	no problem	no_problem
+As you like!	as you like	as_you_like
+there is a problem	there is a problem	there_is_a_problem
+there is a question	there is a question	there_is_a_question
+a storm	a storm	a_storm
+there is a storm	there is a storm	there_is_a_storm
+an idea	an idea	an_idea
+another idea	another idea	another_idea
+a train	a train	a_train
+another train	another train	another_train
+a film	a film	a_film
+another film	another film	another_film
+boys	boys	boys
+some boys	some boys	some_boys
+girls	girls	girls
+some girls	some girls	some_girls
+cars	cars	cars
+some cars	some cars	some_cars
+someone	someone	someone
+something	something	something
+no one	no one	no_one
+nothing	nothing	nothing
+everyone	everyone	everyone
+everything	everything	everything
+wait!	wait	wait
+come!	come	come
+go!	go	go
+stay!	stay	stay
+leave!	leave	leave
+Look!	look	look
+Listen!	listen	listen
+Remember!	remember	remember
+Read!	read	read
+Watch!	watch	watch
+catch!	catch	catch
+I love you!	i love you	i_love_you
+he loves her	he loves her	he_loves_her
+she loves him	she loves him	she_loves_him
+they love her	they love her	they_love_her
+these people love her	these people love her	these_people_love_her
+these people love him	these people love him	these_people_love_him
+we love him	we love him	we_love_him
+he loves them	he loves them	he_loves_them
+these people love them	these people love them	these_people_love_them
+what do you like to eat?	what do you like to eat	what_do_you_like_to_eat
+what do they like to eat?	what do they like to eat	what_do_they_like_to_eat
+what do you like to drink?	what do you like to drink	what_do_you_like_to_drink
+what do they like to drink?	what do they like to drink	what_do_they_like_to_drink
+what does he like to eat?	what does he like to eat	what_does_he_like_to_eat
+what does he like to drink?	what does he like to drink	what_does_he_like_to_drink
+what does she like to eat?	what does she like to eat	what_does_she_like_to_eat
+what does she like to drink?	what does she like to drink	what_does_she_like_to_drink
+what do you like to do?	what do you like to do	what_do_you_like_to_do
+what do you like to read?	what do you like to read	what_do_you_like_to_read
+what does she like to do?	what does she like to do	what_does_she_like_to_do
+what does she like to read?	what does she like to read	what_does_she_like_to_read
+what does he like to do?	what does he like to do	what_does_he_like_to_do
+what does he like to read?	what does he like to read	what_does_he_like_to_read
+what do they like to read?	what do they like to read	what_do_they_like_to_read
+what do they like to do?	what do they like to do	what_do_they_like_to_do
+he has a car	he has a car	he_has_a_car
+she has a bag	she has a bag	she_has_a_bag
+he has a bag	he has a bag	he_has_a_bag
+what's up?	what's up	what_s_up
+bite the bullet	bite the bullet	bite_the_bullet
+break the ice	break the ice	break_the_ice
+spill the beans/ spill	spill the beans spill	spill_the_beans_spill
+awesome	awesome	awesome
+cool	cool	cool
+hot	hot	hot
+fly	fly	fly
+I'm beat	i'm beat	i_m_beat
+Let's hang out/ Let's chill	let's hang out let's chill	let_s_hang_out_let_s_chill
+netflix and chill	netflix and chill	netflix_and_chill
+hooked	hooked	hooked
+get your act together	get your act together	get_your_act_together
+pull yourself up	pull yourself up	pull_yourself_up
+you rock	you rock	you_rock
+step up your game	step up your game	step_up_your_game
+pull yourself together	pull yourself together	pull_yourself_together
+hang in there	hang in there	hang_in_there
+blew me away	blew me away	blew_me_away
+couldn't care less	couldn't care less	couldn_t_care_less
+take it with a pinch of salt	take it with a pinch of salt	take_it_with_a_pinch_of_salt
+when pigs fly	when pigs fly	when_pigs_fly
+on fleek	on fleek	on_fleek
+bae (acronym)	bae	bae_acronym
+to ship (internet slang)	to ship	to_ship_internet_slang
+come on! greek- difference btw ela & ante	come on greek- difference btw ela ante	come_on_greek_difference_btw_ela_ante
+a tall teacher	a tall teacher	a_tall_teacher
+a smart teacher	a smart teacher	a_smart_teacher
+the smart teacher	the smart teacher	the_smart_teacher
+the tall man	the tall man	the_tall_man
+this smart teacher	this smart teacher	this_smart_teacher
+this teacher is smart	this teacher is smart	this_teacher_is_smart
+this tall teacher	this tall teacher	this_tall_teacher
+this teacher is tall	this teacher is tall	this_teacher_is_tall
+this tall teacher is smart	this tall teacher is smart	this_tall_teacher_is_smart
+this smart man is tall	this smart man is tall	this_smart_man_is_tall
+Good Morning! <br> Good Morning.	good morning br good morning	good_morning_br_good_morning
+Good Evening! <br> Good Evening.	good evening br good evening	good_evening_br_good_evening
+How are you doing? <br> Fine, thank you.	how are you doing br fine thank you	how_are_you_doing_br_fine_thank_you
+Thank you! <br> You are welcome.	thank you br you are welcome	thank_you_br_you_are_welcome
+What is your name? <br> My name is Adam.	what is your name br my name is adam	what_is_your_name_br_my_name_is_adam
+a bus	a bus	a_bus
+an airplane	an airplane	an_airplane
+a ship	a ship	a_ship
+I have a dog	i have a dog	i_have_a_dog
+I have a cat	i have a cat	i_have_a_cat
+I have a horse	i have a horse	i_have_a_horse
+We have a horse	we have a horse	we_have_a_horse
+She has a dog	she has a dog	she_has_a_dog
+He has a dog	he has a dog	he_has_a_dog
+He has a horse	he has a horse	he_has_a_horse
+This teacher has a horse	this teacher has a horse	this_teacher_has_a_horse
+This teacher has a dog	this teacher has a dog	this_teacher_has_a_dog
+You have a dog	you have a dog	you_have_a_dog
+You have a cat	you have a cat	you_have_a_cat
+a fish	a fish	a_fish
+a cow	a cow	a_cow
+a bird	a bird	a_bird
+Where are you from? <br> I am from France.	where are you from br i am from france	where_are_you_from_br_i_am_from_france
+How old are you? <br> I am twenty years old.	how old are you br i am twenty years old	how_old_are_you_br_i_am_twenty_years_old
+What do you want? <br> I want to eat.	what do you want br i want to eat	what_do_you_want_br_i_want_to_eat
+What are you looking for? <br> I am looking for a restaurant.	what are you looking for br i am looking for a restaurant	what_are_you_looking_for_br_i_am_looking_for_a_restaurant
+a boy	a boy	a_boy
+a girl	a girl	a_girl
+We want a car	we want a car	we_want_a_car
+this man wants a house	this man wants a house	this_man_wants_a_house
+this man wants a car	this man wants a car	this_man_wants_a_car
+You want a car	you want a car	you_want_a_car
+You want a house	you want a house	you_want_a_house
+{a [small] (problem)}	a small	a_small_problem
+{a [big] problem}	a big problem	a_big_problem
+{[another] problem}	another problem	another_problem
+{a [big] (house)}	a big	a_big_house
+{[other] (questions)}	other	other_questions
+{[good] (questions)}	good	good_questions
+{[many] (questions)}	many	many_questions
+[an old car]	an old car	an_old_car
+[a nice car]	a nice car	a_nice_car
+{a [new] (car)}	a new	a_new_car
+{this person}	this person	this_person
+{my [phone] (number)}	my phone	my_phone_number
+{my [new] (address)}	my new	my_new_address
+{my [passport]}	my passport	my_passport
+{The (letter)} arrived.	the arrived	the_letter_arrived
+{the (people)} arrived.	the arrived	the_people_arrived
+{the (guests)} arrived.	the arrived	the_guests_arrived
+he wants {a (ticket)}	he wants a	he_wants_a_ticket
+I eat {chicken}	i eat chicken	i_eat_chicken
+I eat {cheese}	i eat cheese	i_eat_cheese
+I saw {the (bus)}	i saw the	i_saw_the_bus
+I saw {the (train)}	i saw the	i_saw_the_train
+I saw {the (airplane)}	i saw the	i_saw_the_airplane
+I have {a [small] (problem)}	i have a small	i_have_a_small_problem
+We have {a [big] problem}	we have a big problem	we_have_a_big_problem
+She has {[another] problem}	she has another problem	she_has_another_problem
+We have {a [big] (house)}	we have a big	we_have_a_big_house
+He has {a [new] house}	he has a new house	he_has_a_new_house
+They have {an [old] house}	they have an old house	they_have_an_old_house
+You have {[other] (questions)}	you have other	you_have_other_questions
+They have {[good] (questions)}	they have good	they_have_good_questions
+We have {[many] (questions)}	we have many	we_have_many_questions
+{This (woman)} has a new [kitchen]	this has a new kitchen	this_woman_has_a_new_kitchen
+{This (man)} has [an old car]	this has an old car	this_man_has_an_old_car
+{This (person)} has [a nice car]	this has a nice car	this_person_has_a_nice_car
+She doesn't have {a [new] (car)}	she doesn't have a new	she_doesn_t_have_a_new_car
+They don't have {[other] (questions)}	they don't have other	they_don_t_have_other_questions
+We don't have {[any] (problem)}	we don't have any	we_don_t_have_any_problem
+{This woman} doesn't have [a nice car]	this woman doesn't have a nice car	this_woman_doesn_t_have_a_nice_car
+{This man} doesn't have [an old car]	this man doesn't have an old car	this_man_doesn_t_have_an_old_car
+{This person} doesn't have [a new car]	this person doesn't have a new car	this_person_doesn_t_have_a_new_car
+I am {the [new] (teacher)}	i am the new	i_am_the_new_teacher
+I am {the [new] (manager)}	i am the new	i_am_the_new_manager
+I am {the [new] (translator)}	i am the new	i_am_the_new_translator
+He is at (school) [now]	he is at now	he_is_at_school_now
+She is at {the (airport)} now	she is at the now	she_is_at_the_airport_now
+They are at {the (hospital)} now	they are at the now	they_are_at_the_hospital_now
+You are {very [kind]}	you are very kind	you_are_very_kind
+She is {very [beautiful]}	she is very beautiful	she_is_very_beautiful
+We are {(really) [happy]}	we are happy	we_are_really_happy
+{Our (neighbours)} are very [noisy]	our are very noisy	our_neighbours_are_very_noisy
+{My (friend)} is very [smart]	my is very smart	my_friend_is_very_smart
+{Our (colleagues)} are very [quiet]	our are very quiet	our_colleagues_are_very_quiet
+{Most (people)} are [kind]	most are kind	most_people_are_kind
+{Most (children)} are [smart]	most are smart	most_children_are_smart
+{Most (books)} are [new]	most are new	most_books_are_new
+I am from {[another] (country)}	i am from another	i_am_from_another_country
+He is from {[another] (place)}	he is from another	he_is_from_another_place
+They are from {another (city)}	they are from another	they_are_from_another_city
+{The (book)} is not [good]	the is not good	the_book_is_not_good
+{The (food)} is not [clean]	the is not clean	the_food_is_not_clean
+{The (bus)} is not [bad]	the is not bad	the_bus_is_not_bad
+{Thank you very much} for the [help]! <br> (You are welcome)	thank you very much for the help br	thank_you_very_much_for_the_help_br_you_are_welcome
+Thank you for {this [nice] (food)}! <br> You are welcome	thank you for this nice br you are welcome	thank_you_for_this_nice_food_br_you_are_welcome
+[Thank you] for {this (idea)}! <br> You are welcome	thank you for this br you are welcome	thank_you_for_this_idea_br_you_are_welcome
+{[sorry] for bothering you} <br> (It's alright)	sorry for bothering you br	sorry_for_bothering_you_br_it_s_alright
+{sorry for doing (this)} <br> It's alright	sorry for doing br it's alright	sorry_for_doing_this_br_it_s_alright
+sorry for asking {this (question)} <br> It's alright	sorry for asking this br it's alright	sorry_for_asking_this_question_br_it_s_alright
+{How are you doing}? <br> [I'm doing fine], (thanks)	how are you doing br i'm doing fine	how_are_you_doing_br_i_m_doing_fine_thanks
+How are you doing (now)? <br> {much [better]}, thanks	how are you doing br much better thanks	how_are_you_doing_now_br_much_better_thanks
+{Hi}! [(My name) is Adam]	hi is adam	hi_my_name_is_adam
+Hi! {What is (your [name])}?	hi what is	hi_what_is_your_name
+Hi! {Where are you from}?	hi where are you from	hi_where_are_you_from
+[Excuse me], {can you help me}?	excuse me can you help me	excuse_me_can_you_help_me
+Excuse me, {can you show me (something)}?	excuse me can you show me	excuse_me_can_you_show_me_something
+Excuse me, {can you speak (slowly)}?	excuse me can you speak	excuse_me_can_you_speak_slowly
+{Give me (some [food])}, please.	give me please	give_me_some_food_please
+I need {some [water]}, [please].	i need some water please	i_need_some_water_please
+{I need [a (place) to sleep]}, please.	i need a to sleep please	i_need_a_place_to_sleep_please
+Here's {my [phone] (number)}	here's my phone	here_s_my_phone_number
+Here's {my [new] (address)}	here's my new	here_s_my_new_address
+Here's {my [passport]}	here's my passport	here_s_my_passport
+Where is {the [bathroom]}?	where is the bathroom	where_is_the_bathroom
+Where is {your [house]}?	where is your house	where_is_your_house
+Where is {my [room]}?	where is my room	where_is_my_room
+Can I make a {[phone] (call)}?	can i make a phone	can_i_make_a_phone_call
+Can you please help me?	can you please help me	can_you_please_help_me
+I want to go to {the hotel}	i want to go to the hotel	i_want_to_go_to_the_hotel
+I want to go to {the house}	i want to go to the house	i_want_to_go_to_the_house
+I want to go to {the bathroom}	i want to go to the bathroom	i_want_to_go_to_the_bathroom
+She wants {a (green) [bag]}	she wants a bag	she_wants_a_green_bag
+He wants {a (black) [bag]}	he wants a bag	he_wants_a_black_bag
+They want {a black [car]}	they want a black car	they_want_a_black_car
+[This (girl)] wants to eat {something}	this wants to eat something	this_girl_wants_to_eat_something
+[This (boy)] wants to drink something	this wants to drink something	this_boy_wants_to_drink_something
+[This (man)] wants to know something	this wants to know something	this_man_wants_to_know_something
+{The boys} want to play	the boys want to play	the_boys_want_to_play
+{The girls} want to play	the girls want to play	the_girls_want_to_play
+{The children} want to play	the children want to play	the_children_want_to_play
+I don't want {a (new) [bag]}	i don't want a bag	i_don_t_want_a_new_bag
+I don't want {a (big) [car]}	i don't want a car	i_don_t_want_a_big_car
+I don't want {a new car}	i don't want a new car	i_don_t_want_a_new_car
+Do {these (people)} want to eat?	do these want to eat	do_these_people_want_to_eat
+Does {this (woman)} want to play?	does this want to play	does_this_woman_want_to_play
+Do {these (men)} want to drink?	do these want to drink	do_these_men_want_to_drink
+I am doing {[other] (things)}	i am doing other	i_am_doing_other_things
+I am doing {my [work]}	i am doing my work	i_am_doing_my_work
+I am doing {(many) things}	i am doing things	i_am_doing_many_things
+They are doing {their work}	they are doing their work	they_are_doing_their_work
+We are doing {our work}	we are doing our work	we_are_doing_our_work
+He is doing {his work}	he is doing his work	he_is_doing_his_work
+What are you doing?	what are you doing	what_are_you_doing
+What is she doing?	what is she doing	what_is_she_doing
+What are they doing?	what are they doing	what_are_they_doing
+Is he doing {his [homework]}?	is he doing his homework	is_he_doing_his_homework
+Is she doing {her homework}?	is she doing her homework	is_she_doing_her_homework
+Are they doing {their homework}?	are they doing their homework	are_they_doing_their_homework
+Who is doing {this work}?	who is doing this work	who_is_doing_this_work
+Who is doing {his homework}?	who is doing his homework	who_is_doing_his_homework
+Who is doing {this}?	who is doing this	who_is_doing_this
+I'm not doing {anything}	i'm not doing anything	i_m_not_doing_anything
+He is not doing anything	he is not doing anything	he_is_not_doing_anything
+We are not doing anything	we are not doing anything	we_are_not_doing_anything
+I see {a (blue) [fish]}	i see a fish	i_see_a_blue_fish
+I see {a (black) [horse]}	i see a horse	i_see_a_black_horse
+I see {a (red) [cow]}	i see a cow	i_see_a_red_cow
+They see {a (brown) [bear]}	they see a bear	they_see_a_brown_bear
+We see {a (white) [donkey]}	we see a donkey	we_see_a_white_donkey
+You see {a (green) [frog]}	you see a frog	you_see_a_green_frog
+Do you see {a (yellow) [flower]}?	do you see a flower	do_you_see_a_yellow_flower
+Do they see {a (purple) flower}?	do they see a flower	do_they_see_a_purple_flower
+Does she see {an (orange) flower}?	does she see an flower	does_she_see_an_orange_flower
+What do you see?	what do you see	what_do_you_see
+What does she see?	what does she see	what_does_she_see
+What do they see?	what do they see	what_do_they_see
+I don't see anything	i don't see anything	i_don_t_see_anything
+They don't see {anything}	they don't see anything	they_don_t_see_anything
+We don't see anything	we don't see anything	we_don_t_see_anything
+I see {(many) [people]}	i see people	i_see_many_people
+You see {(many) [cars]}	you see cars	you_see_many_cars
+We see {many [animals]}	we see many animals	we_see_many_animals
+I know {her [address]}	i know her address	i_know_her_address
+I know {(many) [things]}	i know things	i_know_many_things
+He knows (the answer) to {this [question]}	he knows to this question	he_knows_the_answer_to_this_question
+You know the answer to {our [question]}	you know the answer to our question	you_know_the_answer_to_our_question
+We know the answer to {their [question]}	we know the answer to their question	we_know_the_answer_to_their_question
+I don't know {his [address]}	i don't know his address	i_don_t_know_his_address
+I don't know {her [name]}	i don't know her name	i_don_t_know_her_name
+I don't know [anything]	i don't know anything	i_don_t_know_anything
+Do you know {what happened}?	do you know what happened	do_you_know_what_happened
+Do you know {who did this}?	do you know who did this	do_you_know_who_did_this
+Do you know {where she is}?	do you know where she is	do_you_know_where_she_is
+Who knows who did {this}?	who knows who did this	who_knows_who_did_this
+Who knows what happened?	who knows what happened	who_knows_what_happened
+Who knows where she is?	who knows where she is	who_knows_where_she_is
+I am going to {school}	i am going to school	i_am_going_to_school
+I am going to {the (airport)}	i am going to the	i_am_going_to_the_airport
+I am going to {the (hospital)}	i am going to the	i_am_going_to_the_hospital
+Where is he going?	where is he going	where_is_he_going
+Where are you going?	where are you going	where_are_you_going
+Where are they going?	where are they going	where_are_they_going
+How are they going to {their (house)}?	how are they going to their	how_are_they_going_to_their_house
+How are we going to {our school}?	how are we going to our school	how_are_we_going_to_our_school
+How is he going to {his (work)}?	how is he going to his	how_is_he_going_to_his_work
+They go to school {by (bus)}	they go to school by	they_go_to_school_by_bus
+He goes to work {by (car)}	he goes to work by	he_goes_to_work_by_car
+She goes to {her (house)} by [train]	she goes to her by train	she_goes_to_her_house_by_train
+We go to the restaurant on foot	we go to the restaurant on foot	we_go_to_the_restaurant_on_foot
+You go to the museum by taksówk	you go to the museum by taksówk	you_go_to_the_museum_by_taksówk
+I go to the hotel by bus	i go to the hotel by bus	i_go_to_the_hotel_by_bus
+He says he is happy	he says he is happy	he_says_he_is_happy
+They say they are hungry	they say they are hungry	they_say_they_are_hungry
+She says she is busy	she says she is busy	she_says_she_is_busy
+What did they say?	what did they say	what_did_they_say
+The man says he is sorry	the man says he is sorry	the_man_says_he_is_sorry
+The woman says she is sorry	the woman says she is sorry	the_woman_says_she_is_sorry
+The people say they are sorry	the people say they are sorry	the_people_say_they_are_sorry
+He said other things	he said other things	he_said_other_things
+They said many things	they said many things	they_said_many_things
+I said the same things	i said the same things	i_said_the_same_things
+Why did you say this?	why did you say this	why_did_you_say_this
+Why did he say this?	why did he say this	why_did_he_say_this
+Why did they say this?	why did they say this	why_did_they_say_this
+There is a cat under the table	there is a cat under the table	there_is_a_cat_under_the_table
+There is a comedy movie in theaters	there is a comedy movie in theaters	there_is_a_comedy_movie_in_theaters
+There is a baby in the stroller	there is a baby in the stroller	there_is_a_baby_in_the_stroller
+There are many people outside the building	there are many people outside the building	there_are_many_people_outside_the_building
+There are markers in the drawer	there are markers in the drawer	there_are_markers_in_the_drawer
+There are notes on the refrigerator	there are notes on the refrigerator	there_are_notes_on_the_refrigerator
+There is a car in front of the house	there is a car in front of the house	there_is_a_car_in_front_of_the_house
+There is a person behind him	there is a person behind him	there_is_a_person_behind_him
+There is a chair next to you	there is a chair next to you	there_is_a_chair_next_to_you
+Is there a problem with this car?	is there a problem with this car	is_there_a_problem_with_this_car
+Is there a bathroom on this floor?	is there a bathroom on this floor	is_there_a_bathroom_on_this_floor
+Is there a medication for allergies?	is there a medication for allergies	is_there_a_medication_for_allergies
+There is no cat on the table	there is no cat on the table	there_is_no_cat_on_the_table
+There is no drama on tv	there is no drama on tv	there_is_no_drama_on_tv
+There is no one behind the door	there is no one behind the door	there_is_no_one_behind_the_door
+Is there anybody in the house?	is there anybody in the house	is_there_anybody_in_the_house
+Is there anything in the car?	is there anything in the car	is_there_anything_in_the_car
+Is there any child at school?	is there any child at school	is_there_any_child_at_school

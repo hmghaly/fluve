@@ -1,0 +1,656 @@
+un homme	un homme	un_homme
+l'homme	l' homme	l_homme
+{cet homme}	cet homme	cet_homme
+il est intelligent	il est intelligent	il_est_intelligent
+l'homme est intelligent	l' homme est intelligent	l_homme_est_intelligent
+il est gentil	il est gentil	il_est_gentil
+cet homme est gentil	cet homme est gentil	cet_homme_est_gentil
+il est grand	il est grand	il_est_grand
+cet homme est grand	cet homme est grand	cet_homme_est_grand
+un homme intelligent	un homme intelligent	un_homme_intelligent
+cet homme intelligent	cet homme intelligent	cet_homme_intelligent
+un brave homme	un brave homme	un_brave_homme
+ce brave homme	ce brave homme	ce_brave_homme
+un grand homme	un grand homme	un_grand_homme
+ce grand homme	ce grand homme	ce_grand_homme
+il lit	il lit	il_lit
+cet homme lit	cet homme lit	cet_homme_lit
+il mange	il mange	il_mange
+cet homme mange	cet homme mange	cet_homme_mange
+il boit	il boit	il_boit
+cet homme boit	cet homme boit	cet_homme_boit
+il chante	il chante	il_chante
+l'homme qui se balance	l' homme qui se balance	l_homme_qui_se_balance
+il cuisinne	il cuisinne	il_cuisinne
+l'homme qui cuisinne	l' homme qui cuisinne	l_homme_qui_cuisinne
+il nage	il nage	il_nage
+l'homme qui nage	l' homme qui nage	l_homme_qui_nage
+c'est un professeur	c'est un professeur	c_est_un_professeur
+cet homme est un professeur	cet homme est un professeur	cet_homme_est_un_professeur
+il est médecin	il est médecin	il_est_médecin
+cet homme est médecin	cet homme est médecin	cet_homme_est_médecin
+il est traducteur	il est traducteur	il_est_traducteur
+cet homme est un traducteur	cet homme est un traducteur	cet_homme_est_un_traducteur
+mon père	mon père	mon_père
+son père	son père	son_père
+son père	son père	son_père
+ton père	ton père	ton_père
+mon père est professeur	mon père est professeur	mon_père_est_professeur
+son père est médecin	son père est médecin	son_père_est_médecin
+son père est traducteur	son père est traducteur	son_père_est_traducteur
+mon père est médecin	mon père est médecin	mon_père_est_médecin
+ton père est professeur	ton père est professeur	ton_père_est_professeur
+un chat	un chat	un_chat
+le chat	le chat	le_chat
+ce chat	ce chat	ce_chat
+mon chat	mon chat	mon_chat
+ton chat	ton chat	ton_chat
+notre chat	notre chat	notre_chat
+son chat	son chat	son_chat
+son chat	son chat	son_chat
+leur chat	leur chat	leur_chat
+un grand / gros chat	un grand gros chat	un_grand_gros_chat
+mon chat est grand / gros	mon chat est grand gros	mon_chat_est_grand_gros
+un chat noir	un chat noir	un_chat_noir
+son chat est noir	son chat est noir	son_chat_est_noir
+un petit chat	un petit chat	un_petit_chat
+son chat est petit	son chat est petit	son_chat_est_petit
+un chien	un chien	un_chien
+le chien	le chien	le_chien
+ce chien	ce chien	ce_chien
+mon chien	mon chien	mon_chien
+le chien de mon père	le chien de mon père	le_chien_de_mon_père
+son chien	son chien	son_chien
+le chien de son père	le chien de son père	le_chien_de_son_père
+son chien	son chien	son_chien
+le chien de son père	le chien de son père	le_chien_de_son_père
+un sac	un sac	un_sac
+le sac	le sac	le_sac
+ce sac	ce sac	ce_sac
+Je veux un sac	je veux un sac	je_veux_un_sac
+il veut {un (sac)}	il veut un	il_veut_un_sac
+Je veux une voiture	je veux une voiture	je_veux_une_voiture
+il veut {une (voiture)}	il veut une	il_veut_une_voiture
+Je veux une maison	je veux une maison	je_veux_une_maison
+il veut une maison	il veut une maison	il_veut_une_maison
+une femme	une femme	une_femme
+la femme	la femme	la_femme
+{cette femme}	cette femme	cette_femme
+Elle veut une voiture	elle veut une voiture	elle_veut_une_voiture
+Cette femme veut une voiture	cette femme veut une voiture	cette_femme_veut_une_voiture
+Elle veut un sac	elle veut un sac	elle_veut_un_sac
+Cette femme veut un sac	cette femme veut un sac	cette_femme_veut_un_sac
+Elle veut une maison	elle veut une maison	elle_veut_une_maison
+Cette femme veut une maison	cette femme veut une maison	cette_femme_veut_une_maison
+une maison	une maison	une_maison
+la maison	la maison	la_maison
+cette maison	cette maison	cette_maison
+{une [nouvelle] maison}	une nouvelle maison	une_nouvelle_maison
+cette maison est neuve	cette maison est neuve	cette_maison_est_neuve
+{une [vieille] maison}	une vieille maison	une_vieille_maison
+cette maison est vieille	cette maison est vieille	cette_maison_est_vieille
+une jolie maison	une jolie maison	une_jolie_maison
+cette maison est jolie	cette maison est jolie	cette_maison_est_jolie
+Nous voulons une maison	nous voulons une maison	nous_voulons_une_maison
+Nous voulons une nouvelle maison	nous voulons une nouvelle maison	nous_voulons_une_nouvelle_maison
+Ils veulent une maison	ils veulent une maison	ils_veulent_une_maison
+Ils veulent une nouvelle maison	ils veulent une nouvelle maison	ils_veulent_une_nouvelle_maison
+Nous voulons une jolie maison	nous voulons une jolie maison	nous_voulons_une_jolie_maison
+Ils veulent une jolie maison	ils veulent une jolie maison	ils_veulent_une_jolie_maison
+Quoi?	quoi	quoi
+Où?	où	où
+Quand?	quand	quand
+Qui?	qui	qui
+Pourquoi?	pourquoi	pourquoi
+Comment?	comment	comment
+Combien?	combien	combien
+les hommes	les hommes	les_hommes
+les hommes	les hommes	les_hommes
+Ces hommes	ces hommes	ces_hommes
+Qu'est-ce que tu veux?	qu' est-ce que tu veux	qu_est_ce_que_tu_veux
+Qu'est-ce qu'elle veut?	qu' est-ce qu' elle veut	qu_est_ce_qu_elle_veut
+Qu'est-ce que veut cette femme?	qu' est-ce que veut cette femme	qu_est_ce_que_veut_cette_femme
+Qu'est-ce qu'il veut?	qu' est-ce qu' il veut	qu_est_ce_qu_il_veut
+Qu'est-ce que veut cet homme?	qu' est-ce que veut cet homme	qu_est_ce_que_veut_cet_homme
+Que veulent-ils?	que veulent-ils	que_veulent_ils
+Que veulent ces hommes?	que veulent ces hommes	que_veulent_ces_hommes
+soupe	soupe	soupe
+riz	riz	riz
+pâtes	pâtes	pâtes
+pain	pain	pain
+salade	salade	salade
+fromage	fromage	fromage
+poulet	poulet	poulet
+viande	viande	viande
+légumes	légumes	légumes
+poisson	poisson	poisson
+fruits	fruits	fruits
+porc	porc	porc
+Il	il	il
+Elle	elle	elle
+Je	je	je
+Nous	nous	nous
+Ils / Elles	ils elles	ils_elles
+Tu / Vous	tu vous	tu_vous
+ce / ça	ce ça	ce_ça
+Qu'est-ce que c'est que ça?	qu' est-ce que c'est que ça	qu_est_ce_que_c_est_que_ça
+Que s'est-il passé?	que s' est-il passé	que_s_est_il_passé
+Quoi d'autre?	quoi d' autre	quoi_d_autre
+Qu'est-ce qui ne va pas?	qu' est-ce qui ne va pas	qu_est_ce_qui_ne_va_pas
+Je veux manger	je veux manger	je_veux_manger
+Elle veut manger	elle veut manger	elle_veut_manger
+Je veux boire	je veux boire	je_veux_boire
+Elle veut boire	elle veut boire	elle_veut_boire
+Je veux lire	je veux lire	je_veux_lire
+Elle veut lire	elle veut lire	elle_veut_lire
+Je mange	je mange	je_mange
+Nous mangeons	nous mangeons	nous_mangeons
+Elle mange	elle mange	elle_mange
+Tu manges / Vous mangez	tu manges vous mangez	tu_manges_vous_mangez
+Ils / Elles mangent	ils elles mangent	ils_elles_mangent
+Je mange {des pâtes}	je mange des pâtes	je_mange_des_pâtes
+Il mange des pâtes	il mange des pâtes	il_mange_des_pâtes
+Elle mange des fruits	elle mange des fruits	elle_mange_des_fruits
+Nous mangeons du poisson	nous mangeons du poisson	nous_mangeons_du_poisson
+Ils / Elles mangent du fromage	ils elles mangent du fromage	ils_elles_mangent_du_fromage
+Tu manges / Vous mangez du poulet	tu manges vous mangez du poulet	tu_manges_vous_mangez_du_poulet
+Je ne mange pas de viande	je ne mange pas de viande	je_ne_mange_pas_de_viande
+Elle ne mange pas de viande	elle ne mange pas de viande	elle_ne_mange_pas_de_viande
+Je ne mange pas de porc	je ne mange pas de porc	je_ne_mange_pas_de_porc
+Elle ne mange pas de porc	elle ne mange pas de porc	elle_ne_mange_pas_de_porc
+Ils / Elles ne mangent pas de porc	ils elles ne mangent pas de porc	ils_elles_ne_mangent_pas_de_porc
+Ils / Elles ne mangent pas de poisson	ils elles ne mangent pas de poisson	ils_elles_ne_mangent_pas_de_poisson
+Il ne mange pas de fromage	il ne mange pas de fromage	il_ne_mange_pas_de_fromage
+Il ne mange pas de fruits	il ne mange pas de fruits	il_ne_mange_pas_de_fruits
+Qu'est-ce que tu as fait?	qu' est-ce que tu as fait	qu_est_ce_que_tu_as_fait
+Qu'est-ce que tu as dit?	qu' est-ce que tu as dit	qu_est_ce_que_tu_as_dit
+Qu'est-ce qu'elle a fait?	qu' est-ce qu' elle a fait	qu_est_ce_qu_elle_a_fait
+Qu'est-ce qu'elle a dit?	qu' est-ce qu' elle a dit	qu_est_ce_qu_elle_a_dit
+Qu'est-ce qu'il a fait?	qu' est-ce qu' il a fait	qu_est_ce_qu_il_a_fait
+Qu'est-ce qu'il a dit?	qu' est-ce qu' il a dit	qu_est_ce_qu_il_a_dit
+Qui es tu?	qui es tu	qui_es_tu
+Qui est-il?	qui est-il	qui_est_il
+Qui est cet homme?	qui est cet homme	qui_est_cet_homme
+Qui est-elle?	qui est-elle	qui_est_elle
+Qui est cette femme?	qui est cette femme	qui_est_cette_femme
+Qui sont-ils/elles?	qui sont-ils elles	qui_sont_ils_elles
+Qui sont ces hommes?	qui sont ces hommes	qui_sont_ces_hommes
+Je parle anglais	je parle anglais	je_parle_anglais
+Elle parle anglais	elle parle anglais	elle_parle_anglais
+Nous parlons anglais	nous parlons anglais	nous_parlons_anglais
+Ils parlent anglais	ils parlent anglais	ils_parlent_anglais
+Tu parles / vous parlez anglais	tu parles vous parlez anglais	tu_parles_vous_parlez_anglais
+il parle anglais	il parle anglais	il_parle_anglais
+personnes	personnes	personnes
+le peuple	le peuple	le_peuple
+ces personnes	ces personnes	ces_personnes
+Je ne parle pas anglais	je ne parle pas anglais	je_ne_parle_pas_anglais
+Elle ne parle pas anglais	elle ne parle pas anglais	elle_ne_parle_pas_anglais
+Cette femme ne parle pas anglais	cette femme ne parle pas anglais	cette_femme_ne_parle_pas_anglais
+Il ne parle pas anglais	il ne parle pas anglais	il_ne_parle_pas_anglais
+Cet homme ne parle pas anglais	cet homme ne parle pas anglais	cet_homme_ne_parle_pas_anglais
+Ils / Elles ne parlent pas anglais	ils elles ne parlent pas anglais	ils_elles_ne_parlent_pas_anglais
+Ces personnes ne parlent pas anglais	ces personnes ne parlent pas anglais	ces_personnes_ne_parlent_pas_anglais
+Parlez-vous anglais?	parlez-vous anglais	parlez_vous_anglais
+Est-ce qu'elle parle l'anglais?	est-ce qu' elle parle l' anglais	est_ce_qu_elle_parle_l_anglais
+Est-ce que cette femme parle anglais?	est-ce que cette femme parle anglais	est_ce_que_cette_femme_parle_anglais
+Parle t'il anglais?	parle t' il anglais	parle_t_il_anglais
+Est-ce que cet homme parle l'anglais?	est-ce que cet homme parle l' anglais	est_ce_que_cet_homme_parle_l_anglais
+Parlent-ils / elles anglais?	parlent-ils elles anglais	parlent_ils_elles_anglais
+Est-ce que ces personnes parlent l'anglais?	est-ce que ces personnes parlent l' anglais	est_ce_que_ces_personnes_parlent_l_anglais
+mon nom	mon nom	mon_nom
+son nom	son nom	son_nom
+son nom	son nom	son_nom
+ton nom	ton nom	ton_nom
+Quel est ton nom?	quel est ton nom	quel_est_ton_nom
+Quel est son nom?	quel est son nom	quel_est_son_nom
+Quel est son nom?	quel est son nom	quel_est_son_nom
+l'adresse	l' adresse	l_adresse
+mon adresse	mon adresse	mon_adresse
+ton adresse	ton adresse	ton_adresse
+son adresse	son adresse	son_adresse
+son adresse	son adresse	son_adresse
+notre adresse	notre adresse	notre_adresse
+leur adresse	leur adresse	leur_adresse
+Je connais {son [nom]}	je connais son nom	je_connais_son_nom
+Je connais son adresse	je connais son adresse	je_connais_son_adresse
+Il connait mon adresse	il connait mon adresse	il_connait_mon_adresse
+Il connait son nom	il connait son nom	il_connait_son_nom
+Elle connait leur adresse	elle connait leur adresse	elle_connait_leur_adresse
+Elle connait son nom	elle connait son nom	elle_connait_son_nom
+Cette femme connait mon adresse	cette femme connait mon adresse	cette_femme_connait_mon_adresse
+Ils / Elles connaissent notre adresse	ils elles connaissent notre adresse	ils_elles_connaissent_notre_adresse
+Ces personnes connaissent mon nom	ces personnes connaissent mon nom	ces_personnes_connaissent_mon_nom
+Je ne sais pas	je ne sais pas	je_ne_sais_pas
+Il ne sait pas	il ne sait pas	il_ne_sait_pas
+Cet homme ne sait pas	cet homme ne sait pas	cet_homme_ne_sait_pas
+Elle ne sait pas	elle ne sait pas	elle_ne_sait_pas
+Cette femme ne sait pas	cette femme ne sait pas	cette_femme_ne_sait_pas
+Ils / Elles ne savent pas	ils elles ne savent pas	ils_elles_ne_savent_pas
+Ces personnes ne savent pas	ces personnes ne savent pas	ces_personnes_ne_savent_pas
+ma mère	ma mère	ma_mère
+ta mère	ta mère	ta_mère
+sa mère	sa mère	sa_mère
+sa mère	sa mère	sa_mère
+Je peux nager	je peux nager	je_peux_nager
+Il peut nager	il peut nager	il_peut_nager
+mon père peut nager	mon père peut nager	mon_père_peut_nager
+Elle peut nager	elle peut nager	elle_peut_nager
+Ma mère peut nager	ma mère peut nager	ma_mère_peut_nager
+Tu peux nager / vous pouvez nager	tu peux nager vous pouvez nager	tu_peux_nager_vous_pouvez_nager
+Nous pouvons nager	nous pouvons nager	nous_pouvons_nager
+Ils / Elles peuvent nager	ils elles peuvent nager	ils_elles_peuvent_nager
+Ces personnes peuvent nager	ces personnes peuvent nager	ces_personnes_peuvent_nager
+un problème	un problème	un_problème
+le problème	le problème	le_problème
+ce problème	ce problème	ce_problème
+mon problème	mon problème	mon_problème
+son problème	son problème	son_problème
+son problème	son problème	son_problème
+ton problème	ton problème	ton_problème
+notre problème	notre problème	notre_problème
+leur problème	leur problème	leur_problème
+une voiture	une voiture	une_voiture
+la voiture	la voiture	la_voiture
+cette voiture	cette voiture	cette_voiture
+J'ai une maison	j'ai une maison	j_ai_une_maison
+J'ai une voiture	j'ai une voiture	j_ai_une_voiture
+Elle a une maison	elle a une maison	elle_a_une_maison
+Elle a une voiture	elle a une voiture	elle_a_une_voiture
+Elle a un chat	elle a un chat	elle_a_un_chat
+Il a une maison	il a une maison	il_a_une_maison
+Il a un chat	il a un chat	il_a_un_chat
+Ils / Elles ont une voiture	ils elles ont une voiture	ils_elles_ont_une_voiture
+Ils / Elles ont une maison	ils elles ont une maison	ils_elles_ont_une_maison
+Nous avons un chat	nous avons un chat	nous_avons_un_chat
+Nous avons une maison	nous avons une maison	nous_avons_une_maison
+Je n'ai pas de maison	je n'ai pas de maison	je_n_ai_pas_de_maison
+Je n'ai pas de voiture	je n'ai pas de voiture	je_n_ai_pas_de_voiture
+Elle n'a pas de maison	elle n'a pas de maison	elle_n_a_pas_de_maison
+Elle n'a pas de voiture	elle n'a pas de voiture	elle_n_a_pas_de_voiture
+Elle n'a pas de chat	elle n'a pas de chat	elle_n_a_pas_de_chat
+Il n'a pas de maison	il n'a pas de maison	il_n_a_pas_de_maison
+Il n'a pas de chat	il n'a pas de chat	il_n_a_pas_de_chat
+Ils / Elles n'ont pas de chat	ils elles n'ont pas de chat	ils_elles_n_ont_pas_de_chat
+Ils / Elles n'ont pas de maison	ils elles n'ont pas de maison	ils_elles_n_ont_pas_de_maison
+Nous n'avons pas de chat	nous n'avons pas de chat	nous_n_avons_pas_de_chat
+Nous n'avons pas de maison	nous n'avons pas de maison	nous_n_avons_pas_de_maison
+vraiment?	vraiment	vraiment
+pour de vrai? --- tu es sûre?	pour de vrai --- tu es sûre	pour_de_vrai_tu_es_sûre
+et toi?	et toi	et_toi
+finis?	finis	finis
+c'est juste?	c'est juste	c_est_juste
+Bonjour	bonjour	bonjour
+Bonsoir	bonsoir	bonsoir
+Bonjour	bonjour	bonjour
+Bienvenue	bienvenue	bienvenue
+Merci	merci	merci
+De rien	de rien	de_rien
+Excusez-moi	excusez-moi	excusez_moi
+Désolée	désolée	désolée
+Ce n'est pas grave	ce n'est pas grave	ce_n_est_pas_grave
+Au revoir	au revoir	au_revoir
+Tenez	tenez	tenez
+S'il vous plaît	s' il vous plaît	s_il_vous_plaît
+D'où venez-vous?	d' où venez-vous	d_où_venez_vous
+Où êtes-vous?	où êtes-vous	où_êtes_vous
+Où est-il?	où est-il	où_est_il
+Où est-elle?	où est-elle	où_est_elle
+Où sommes-nous?	où sommes-nous	où_sommes_nous
+Où sont-ils / elles?	où sont-ils elles	où_sont_ils_elles
+Où suis-je?	où suis-je	où_suis_je
+maintenant	maintenant	maintenant
+aujourd'hui	aujourd'hui	aujourd_hui
+demain	demain	demain
+hier	hier	hier
+plus tard	plus tard	plus_tard
+la semaine prochaine	la semaine prochaine	la_semaine_prochaine
+la semaine dernière	la semaine dernière	la_semaine_dernière
+le mois prochain	le mois prochain	le_mois_prochain
+le mois dernier	le mois dernier	le_mois_dernier
+parfois	parfois	parfois
+tout le temps	tout le temps	tout_le_temps
+souvent	souvent	souvent
+rarement	rarement	rarement
+oui	oui	oui
+non	non	non
+bien sûre	bien sûre	bien_sûre
+pas sûre	pas sûre	pas_sûre
+pas encore	pas encore	pas_encore
+peut-être	peut-être	peut_être
+d'accord	d' accord	d_accord
+je ne pense pas	je ne pense pas	je_ne_pense_pas
+aucune idée	aucune idée	aucune_idée
+aucun problème	aucun problème	aucun_problème
+Comme tu veux / Comme vous voulez	comme tu veux comme vous voulez	comme_tu_veux_comme_vous_voulez
+Il y a un problème	il y a un problème	il_y_a_un_problème
+Une question se pose	une question se pose	une_question_se_pose
+une tempête	une tempête	une_tempête
+(you can't translate this in french T__T)		you_can_t_translate_this_in_french_t__t
+une idée	une idée	une_idée
+une autre idée	une autre idée	une_autre_idée
+un train	un train	un_train
+un autre train	un autre train	un_autre_train
+un film	un film	un_film
+un autre film	un autre film	un_autre_film
+les garçons	les garçons	les_garçons
+certains garçons	certains garçons	certains_garçons
+les filles	les filles	les_filles
+certaines filles	certaines filles	certaines_filles
+voitures	voitures	voitures
+certaines voitures	certaines voitures	certaines_voitures
+quelqu'un	quelqu' un	quelqu_un
+quelque chose	quelque chose	quelque_chose
+personne	personne	personne
+rien	rien	rien
+tout le monde	tout le monde	tout_le_monde
+tout	tout	tout
+attends!	attends	attends
+viens!	viens	viens
+vas-y!	vas-y	vas_y
+reste!	reste	reste
+pars!	pars	pars
+regarde!	regarde	regarde
+écoute!	écoute	écoute
+souviens-toi!	souviens-toi	souviens_toi
+lis!	lis	lis
+regarde!	regarde	regarde
+attrape!	attrape	attrape
+Je t'aime	je t' aime	je_t_aime
+Il l'aime	il l' aime	il_l_aime
+Elle l'aime	elle l' aime	elle_l_aime
+Ils / Elles l'aiment	ils elles l' aiment	ils_elles_l_aiment
+Ces personnes l'aiment	ces personnes l' aiment	ces_personnes_l_aiment
+Ces personnes l'aiment	ces personnes l' aiment	ces_personnes_l_aiment
+Nous l'aimons	nous l' aimons	nous_l_aimons
+Il les aime	il les aime	il_les_aime
+ces personnes l'aiment	ces personnes l' aiment	ces_personnes_l_aiment
+Qu'est-ce que vous aimez manger? --- Qu'est-ce que tu aimes manger?	qu' est-ce que vous aimez manger --- qu' est-ce que tu aimes manger	qu_est_ce_que_vous_aimez_manger_qu_est_ce_que_tu_aimes_manger
+Qu'est-ce qu'ils / elles aiment manger?	qu' est-ce qu' ils elles aiment manger	qu_est_ce_qu_ils_elles_aiment_manger
+Qu'est-ce que vous aimez boire? --- Qu'est-ce que tu aimes boire?	qu' est-ce que vous aimez boire --- qu' est-ce que tu aimes boire	qu_est_ce_que_vous_aimez_boire_qu_est_ce_que_tu_aimes_boire
+Qu'est-ce qu'ils / elles aiment boire?	qu' est-ce qu' ils elles aiment boire	qu_est_ce_qu_ils_elles_aiment_boire
+Qu'est-ce qu'il aime manger?	qu' est-ce qu' il aime manger	qu_est_ce_qu_il_aime_manger
+Qu'est-ce qu'il aime boire?	qu' est-ce qu' il aime boire	qu_est_ce_qu_il_aime_boire
+Qu'est-ce qu'elle aime manger?	qu' est-ce qu' elle aime manger	qu_est_ce_qu_elle_aime_manger
+Qu'est-ce qu'elle aime boire?	qu' est-ce qu' elle aime boire	qu_est_ce_qu_elle_aime_boire
+ce que	ce que	ce_que
+Qu'est-ce que vous aimez lire? ---- Qu'est-ce que tu aimes lire?	qu' est-ce que vous aimez lire ---- qu' est-ce que tu aimes lire	qu_est_ce_que_vous_aimez_lire_qu_est_ce_que_tu_aimes_lire
+Qu'est-ce qu'elle aime faire?	qu' est-ce qu' elle aime faire	qu_est_ce_qu_elle_aime_faire
+Qu'est-ce qu'elle aime lire?	qu' est-ce qu' elle aime lire	qu_est_ce_qu_elle_aime_lire
+Qu'est-ce qu'il aime faire?	qu' est-ce qu' il aime faire	qu_est_ce_qu_il_aime_faire
+Qu'est-ce qu'il aime lire?	qu' est-ce qu' il aime lire	qu_est_ce_qu_il_aime_lire
+Qu'est-ce qu'ils / elles aiment lire?	qu' est-ce qu' ils elles aiment lire	qu_est_ce_qu_ils_elles_aiment_lire
+Qu'est-ce qu'ils / elles aiment faire?	qu' est-ce qu' ils elles aiment faire	qu_est_ce_qu_ils_elles_aiment_faire
+Il a une voiture	il a une voiture	il_a_une_voiture
+Elle a un sac	elle a un sac	elle_a_un_sac
+Il a un sac	il a un sac	il_a_un_sac
+Qu'est-ce qu'il y a?	qu' est-ce qu' il y a	qu_est_ce_qu_il_y_a
+encaisser // serrer les dents // souffrir en silence	encaisser serrer les dents souffrir en silence	encaisser_serrer_les_dents_souffrir_en_silence
+briser la glace	briser la glace	briser_la_glace
+avouer // cracher le morceau // vendre la mèche	avouer cracher le morceau vendre la mèche	avouer_cracher_le_morceau_vendre_la_mèche
+génial	génial	génial
+cool	cool	cool
+chaud	chaud	chaud
+voler	voler	voler
+je suis mort de fatigue	je suis mort de fatigue	je_suis_mort_de_fatigue
+tu viens? // on se pose?	tu viens on se pose	tu_viens_on_se_pose
+		
+être accro	être accro	être_accro
+reprends-toi	reprends-toi	reprends_toi
+fais un effort	fais un effort	fais_un_effort
+tu es génial // tu es parfait // t'es trop fort	tu es génial tu es parfait t' es trop fort	tu_es_génial_tu_es_parfait_t_es_trop_fort
+faut que tu sortes le grand jeu	faut que tu sortes le grand jeu	faut_que_tu_sortes_le_grand_jeu
+ressaisies-toi	ressaisies-toi	ressaisies_toi
+tien bon	tien bon	tien_bon
+tu m'as époustouflé(e)	tu m' as époustouflé	tu_m_as_époustouflé_e
+je m'en fiche	je m' en fiche	je_m_en_fiche
+ne le prends pas pour argent comptant	ne le prends pas pour argent comptant	ne_le_prends_pas_pour_argent_comptant
+quand les poules auront des dents	quand les poules auront des dents	quand_les_poules_auront_des_dents
+(I honestly have no idea how to translate this one )		i_honestly_have_no_idea_how_to_translate_this_one
+chouchou	chouchou	chouchou
+kiffer	kiffer	kiffer
+genre!	genre	genre
+un grand maître	un grand maître	un_grand_maître
+un maître intelligent	un maître intelligent	un_maître_intelligent
+le maître intelligent	le maître intelligent	le_maître_intelligent
+le grand homme	le grand homme	le_grand_homme
+ce maître intelligent	ce maître intelligent	ce_maître_intelligent
+ce maître est intelligent	ce maître est intelligent	ce_maître_est_intelligent
+ce grand maître	ce grand maître	ce_grand_maître
+ce maître est grand	ce maître est grand	ce_maître_est_grand
+ce grand maître est intelligent	ce grand maître est intelligent	ce_grand_maître_est_intelligent
+cet homme intelligent est grand	cet homme intelligent est grand	cet_homme_intelligent_est_grand
+Bonjour! <br> Bonjour.	bonjour br bonjour	bonjour_br_bonjour
+Bonsoir! <br> Bonsoir.	bonsoir br bonsoir	bonsoir_br_bonsoir
+Comment allez-vous? <br> Bien, merci.	comment allez-vous br bien merci	comment_allez_vous_br_bien_merci
+Merci! <br> De rien.	merci br de rien	merci_br_de_rien
+Quel est votre nom? <br> Mon nom est Adam.	quel est votre nom br mon nom est adam	quel_est_votre_nom_br_mon_nom_est_adam
+un bus	un bus	un_bus
+un avion	un avion	un_avion
+un bateau	un bateau	un_bateau
+J'ai un chien	j'ai un chien	j_ai_un_chien
+J'ai un chat	j'ai un chat	j_ai_un_chat
+J'ai un cheval	j'ai un cheval	j_ai_un_cheval
+Nous avons un cheval	nous avons un cheval	nous_avons_un_cheval
+Elle a un chien	elle a un chien	elle_a_un_chien
+Il a un chien	il a un chien	il_a_un_chien
+Il a un cheval	il a un cheval	il_a_un_cheval
+Ce maître a un cheval	ce maître a un cheval	ce_maître_a_un_cheval
+Ce maître a un chien	ce maître a un chien	ce_maître_a_un_chien
+Vous avez un chien	vous avez un chien	vous_avez_un_chien
+Vous avez un chat	vous avez un chat	vous_avez_un_chat
+un poisson	un poisson	un_poisson
+une vache	une vache	une_vache
+un oiseau	un oiseau	un_oiseau
+D'où venez-vous? <br> Je viens de France.	d' où venez-vous br je viens de france	d_où_venez_vous_br_je_viens_de_france
+Quel âge avez-vous? <br> J'ai vingt ans.	quel âge avez-vous br j'ai vingt ans	quel_âge_avez_vous_br_j_ai_vingt_ans
+Que voulez-vous ? <br> Je veux manger.	que voulez-vous br je veux manger	que_voulez_vous_br_je_veux_manger
+Que cherchez-vous? <br> Je cherche un restaurant.	que cherchez-vous br je cherche un restaurant	que_cherchez_vous_br_je_cherche_un_restaurant
+un garçon	un garçon	un_garçon
+une fille	une fille	une_fille
+Nous voulons une voiture	nous voulons une voiture	nous_voulons_une_voiture
+cet homme veut une maison	cet homme veut une maison	cet_homme_veut_une_maison
+cet homme veut une voiture	cet homme veut une voiture	cet_homme_veut_une_voiture
+Vous voulez une voiture	vous voulez une voiture	vous_voulez_une_voiture
+Vous voulez une maison	vous voulez une maison	vous_voulez_une_maison
+{un [petit] (problème)}	un petit	un_petit_problème
+{un [gros] problème}	un gros problème	un_gros_problème
+{[un autre] problème}	un autre problème	un_autre_problème
+{une [grande] (maison)}	une grande	une_grande_maison
+{[d'autres] (questions)}	d' autres	d_autres_questions
+{[bonnes] (questions)}	bonnes	bonnes_questions
+{[beaucoup de] (questions)}	beaucoup de	beaucoup_de_questions
+[une vieille voiture]	une vieille voiture	une_vieille_voiture
+[une belle voiture]	une belle voiture	une_belle_voiture
+{une [nouvelle] (voiture)}	une nouvelle	une_nouvelle_voiture
+{cette personne}	cette personne	cette_personne
+{mon (numéro) de [téléphone]}	mon de téléphone	mon_numéro_de_téléphone
+{ma [nouvelle] (addresse)}	ma nouvelle	ma_nouvelle_addresse
+{mon [passeport]}	mon passeport	mon_passeport
+{la (lettre)} est arrivée	la est arrivée	la_lettre_est_arrivée
+{les (gens)} sont arrivés	les sont arrivés	les_gens_sont_arrivés
+{(les visiteurs)} sont arrivés	sont arrivés	les_visiteurs_sont_arrivés
+il veut {un (billet)}	il veut un	il_veut_un_billet
+Je mange {du poulet}	je mange du poulet	je_mange_du_poulet
+Je mange {du fromage}	je mange du fromage	je_mange_du_fromage
+J'ai vu {le (bus)}	j'ai vu le	j_ai_vu_le_bus
+J'ai vu {le (train)}	j'ai vu le	j_ai_vu_le_train
+J'ai vu {l'(avion)}	j'ai vu l'	j_ai_vu_l_avion
+J'ai {un [petit] (problème)}	j'ai un petit	j_ai_un_petit_problème
+Nous avons {un [gros] problème}	nous avons un gros problème	nous_avons_un_gros_problème
+Elle a {[un autre] problème}	elle a un autre problème	elle_a_un_autre_problème
+Nous avons {une [grande] (maison)}	nous avons une grande	nous_avons_une_grande_maison
+Il a {une [nouvelle] maison}	il a une nouvelle maison	il_a_une_nouvelle_maison
+Ils ont {une [vieille] maison}	ils ont une vieille maison	ils_ont_une_vieille_maison
+Tu as {[d'autres] (questions)}	tu as d' autres	tu_as_d_autres_questions
+Ils ont de {[bonnes] (questions)}	ils ont de bonnes	ils_ont_de_bonnes_questions
+Nous avons {[beaucoup] de (questions)}	nous avons beaucoup de	nous_avons_beaucoup_de_questions
+{Cette (femme)} a une nouvelle [cuisinne]	cette a une nouvelle cuisinne	cette_femme_a_une_nouvelle_cuisinne
+{Cet (homme)} a [une vieille voiture]	cet a une vieille voiture	cet_homme_a_une_vieille_voiture
+{Cette (personne)} a [une belle voiture]	cette a une belle voiture	cette_personne_a_une_belle_voiture
+Elle n'a pas {une [belle] (voiture)}	elle n'a pas une belle	elle_n_a_pas_une_belle_voiture
+Ils n'ont pas  {[d'autres] (questions)}	ils n'ont pas d' autres	ils_n_ont_pas_d_autres_questions
+Nous n'avons {[aucun] (problème)}	nous n'avons aucun	nous_n_avons_aucun_problème
+{Cette femme} n'a pas [une belle voiture]	cette femme n'a pas une belle voiture	cette_femme_n_a_pas_une_belle_voiture
+{Cet homme} n'a pas [une vieille voiture]	cet homme n'a pas une vieille voiture	cet_homme_n_a_pas_une_vieille_voiture
+{Cette personne} n'a pas [de voiture neuve]	cette personne n'a pas de voiture neuve	cette_personne_n_a_pas_de_voiture_neuve
+Je suis {la [nouvelle] (maîtresse}}	je suis la nouvelle maîtresse	je_suis_la_nouvelle_maîtresse
+Je suis {la [nouvelle] (manager}}	je suis la nouvelle manager	je_suis_la_nouvelle_manager
+Je suis {la [nouvelle] (traductrice)}	je suis la nouvelle	je_suis_la_nouvelle_traductrice
+Il est à (l'école) [maintenant]	il est à maintenant	il_est_à_l_école_maintenant
+Elle est à {l'(aéroport)} maintenant	elle est à l' maintenant	elle_est_à_l_aéroport_maintenant
+Ils sont à {l' (hôpital)} maintenant	ils sont à l' maintenant	ils_sont_à_l_hôpital_maintenant
+Tu es {très [gentil]} (m) % Vous êtes {très [gentil]} (p) ®	tu es très gentil%vous êtes très gentil	tu_es_très_gentil_m%vous_êtes_très_gentil_p
+Elle est {très [belle]}	elle est très belle	elle_est_très_belle
+Nous sommes {(très) [contents]}	nous sommes contents	nous_sommes_très_contents
+{Nos (voisins)} sont très [bruyants]	nos sont très bruyants	nos_voisins_sont_très_bruyants
+{Mon (ami)} est très [intelligent]	mon est très intelligent	mon_ami_est_très_intelligent
+{Nos (collègues)} sont très [discrets]	nos sont très discrets	nos_collègues_sont_très_discrets
+{La plupart (des gens)} sont [gentils]	la plupart sont gentils	la_plupart_des_gens_sont_gentils
+{La plupart (des enfants)} sont [intelligents]	la plupart sont intelligents	la_plupart_des_enfants_sont_intelligents
+{La plupart (des livres)} sont [neufs]	la plupart sont neufs	la_plupart_des_livres_sont_neufs
+Je viens d'un {[autre] (pays)}	je viens d' un autre	je_viens_d_un_autre_pays
+Il vient d'un {[autre] (endroit)}	il vient d' un autre	il_vient_d_un_autre_endroit
+Ils viennent d'une {autre (ville)}	ils viennent d' une autre	ils_viennent_d_une_autre_ville
+{Le (livre)} n'est pas [bon]	le n'est pas bon	le_livre_n_est_pas_bon
+{La (nourriture)} n'est pas [propre]	la n'est pas propre	la_nourriture_n_est_pas_propre
+{Le (bus)} n'est pas [mauvais]	le n'est pas mauvais	le_bus_n_est_pas_mauvais
+{Merci beaucoup} pour votre [aide]! <br> (De rien)	merci beaucoup pour votre aide br	merci_beaucoup_pour_votre_aide_br_de_rien
+Merci pour {cette [bonne] (nourriture)}! <br> De rien	merci pour cette bonne br de rien	merci_pour_cette_bonne_nourriture_br_de_rien
+[Merci] pour {cette (idée)}! <br> De rien	merci pour cette br de rien	merci_pour_cette_idée_br_de_rien
+{[Désolée] de t'avoir dérangé} <br> (Ce n'est pas grave)	désolée de t' avoir dérangé br	désolée_de_t_avoir_dérangé_br_ce_n_est_pas_grave
+{Désolée d'avoir fait (cela)} <br> Ce n'est pas grave	désolée d' avoir fait br ce n'est pas grave	désolée_d_avoir_fait_cela_br_ce_n_est_pas_grave
+Désolée de te poser {cette (question)} <br> Ce n'est pas grave	désolée de te poser cette br ce n'est pas grave	désolée_de_te_poser_cette_question_br_ce_n_est_pas_grave
+{Comment vas-tu? <br> [Je vais bien], (Merci)	comment vas-tu br je vais bien	comment_vas_tu_br_je_vais_bien_merci
+Comment allez-vous (maintenant)? <br> {beaucoup [mieux]}, Merci	comment allez-vous br beaucoup mieux merci	comment_allez_vous_maintenant_br_beaucoup_mieux_merci
+{Bonjour / Bonsoir}! [(Je m'appelle) Adam]	bonjour bonsoir adam	bonjour_bonsoir_je_m_appelle_adam
+Bonjour / Bonsoir! {Comment t'appelles-tu}?	bonjour bonsoir comment t' appelles-tu	bonjour_bonsoir_comment_t_appelles_tu
+Bonjour / Bonsoir! {D'où viens-tu}?	bonjour bonsoir d' où viens-tu	bonjour_bonsoir_d_où_viens_tu
+[Excusez-moi], {pouvez-vous m'aider}?	excusez-moi pouvez-vous m' aider	excusez_moi_pouvez_vous_m_aider
+Excusez-moi, {pouvez-vous me montrer (quelque chose)}?	excusez-moi pouvez-vous me montrer	excusez_moi_pouvez_vous_me_montrer_quelque_chose
+Excusez-moi, {pouvez-vous parler (lentement)}?	excusez-moi pouvez-vous parler	excusez_moi_pouvez_vous_parler_lentement
+{Donnez moi (à [manger])}, s'il vous plaît.	donnez moi s' il vous plaît	donnez_moi_à_manger_s_il_vous_plaît
+J'aimerai {de [l'eau]}, [s'il vous plaît].	j'aimerai de l' eau s' il vous plaît	j_aimerai_de_l_eau_s_il_vous_plaît
+{J'ai besoin [d'un (endroit) pour dormir]}, s'il vous plaît.	j'ai besoin d' un pour dormir s' il vous plaît	j_ai_besoin_d_un_endroit_pour_dormir_s_il_vous_plaît
+Voici {mon (numéro) de [téléphone]}	voici mon de téléphone	voici_mon_numéro_de_téléphone
+Voici {ma [nouvelle] (addresse)}	voici ma nouvelle	voici_ma_nouvelle_addresse
+Voici {mon [passeport]}	voici mon passeport	voici_mon_passeport
+Où se trouve {la [salle de bain}?	où se trouve la salle de bain	où_se_trouve_la_salle_de_bain
+Où se trouve {ta [maison]}?	où se trouve ta maison	où_se_trouve_ta_maison
+Où se trouve {ma [chambre]}?	où se trouve ma chambre	où_se_trouve_ma_chambre
+Puis-je passer un (coup) de {[téléphone]}?	puis-je passer un de téléphone	puis_je_passer_un_coup_de_téléphone
+Pouvez-vous m'aider, s'il vous plaît?	pouvez-vous m' aider s' il vous plaît	pouvez_vous_m_aider_s_il_vous_plaît
+Je veux aller à {l'hotel}	je veux aller à l' hotel	je_veux_aller_à_l_hotel
+Je veux aller à  {la maison}	je veux aller à la maison	je_veux_aller_à_la_maison
+Je veux aller à  {la salle de bain}	je veux aller à la salle de bain	je_veux_aller_à_la_salle_de_bain
+Elle veut {un [sac] (vert)}	elle veut un sac	elle_veut_un_sac_vert
+Il veut {un [sac] (noir)}	il veut un sac	il_veut_un_sac_noir
+Ils veulent {une [voiture] noire}	ils veulent une voiture noire	ils_veulent_une_voiture_noire
+[Cette (fille )] veut manger {quelque chose}	cette veut manger quelque chose	cette_fille_veut_manger_quelque_chose
+[Ce (garçon)] veut boire quelque chose	ce veut boire quelque chose	ce_garçon_veut_boire_quelque_chose
+[Cet (homme)] veut savoir quelque chose	cet veut savoir quelque chose	cet_homme_veut_savoir_quelque_chose
+{Les garçons} veulent jouer	les garçons veulent jouer	les_garçons_veulent_jouer
+{Les filles} veulent jouer	les filles veulent jouer	les_filles_veulent_jouer
+{Les enfants} veulent jouer	les enfants veulent jouer	les_enfants_veulent_jouer
+Je ne veux pas {un (nouveau) [sac]}	je ne veux pas un sac	je_ne_veux_pas_un_nouveau_sac
+Je ne veux pas {une (grosse) [voiture]}	je ne veux pas une voiture	je_ne_veux_pas_une_grosse_voiture
+Je ne veux pas {une nouvelle voiture}	je ne veux pas une nouvelle voiture	je_ne_veux_pas_une_nouvelle_voiture
+Est-ce que {ces (personnes)} veulent manger?	est-ce que ces veulent manger	est_ce_que_ces_personnes_veulent_manger
+Est-ce que {cette (femme)} veut jouer?	est-ce que cette veut jouer	est_ce_que_cette_femme_veut_jouer
+Est-ce que {ces (hommes)} veulent boire?	est-ce que ces veulent boire	est_ce_que_ces_hommes_veulent_boire
+Je suis entrain de faire {[d'autres] (choses)}	je suis entrain de faire d' autres	je_suis_entrain_de_faire_d_autres_choses
+Je suis entrain de faire  {mon [travail]}	je suis entrain de faire mon travail	je_suis_entrain_de_faire_mon_travail
+Je suis entrain de faire {(pleins) de choses}	je suis entrain de faire de choses	je_suis_entrain_de_faire_pleins_de_choses
+Ils sont entrain de faire {leur travail}	ils sont entrain de faire leur travail	ils_sont_entrain_de_faire_leur_travail
+Nous sommes entrain de faire {notre travail}	nous sommes entrain de faire notre travail	nous_sommes_entrain_de_faire_notre_travail
+Il est entrain de faire {son travail}	il est entrain de faire son travail	il_est_entrain_de_faire_son_travail
+Qu'est-ce que tu/vous est entrain de faire?	qu' est-ce que tu vous est entrain de faire	qu_est_ce_que_tu_vous_est_entrain_de_faire
+Qu'est-ce qu'elle est entrain de faire?	qu' est-ce qu' elle est entrain de faire	qu_est_ce_qu_elle_est_entrain_de_faire
+Qu'est-ce qu'ils sont entrain de faire?	qu' est-ce qu' ils sont entrain de faire	qu_est_ce_qu_ils_sont_entrain_de_faire
+Est-ce qu'il est entrain de faire {ses [devoirs]}?	est-ce qu' il est entrain de faire ses devoirs	est_ce_qu_il_est_entrain_de_faire_ses_devoirs
+Est-ce qu'elle est entrain de faire {ses devoirs}?	est-ce qu' elle est entrain de faire ses devoirs	est_ce_qu_elle_est_entrain_de_faire_ses_devoirs
+Est-ce qu'ils font {leur devoirs}?	est-ce qu' ils font leur devoirs	est_ce_qu_ils_font_leur_devoirs
+Qui est entrain de faire {son travail}?	qui est entrain de faire son travail	qui_est_entrain_de_faire_son_travail
+Qui est entrain de faire {ses devoirs}?	qui est entrain de faire ses devoirs	qui_est_entrain_de_faire_ses_devoirs
+Qui est entrain de faire {ceci}?	qui est entrain de faire ceci	qui_est_entrain_de_faire_ceci
+Je suis entrain de ne {rien} faire	je suis entrain de ne rien faire	je_suis_entrain_de_ne_rien_faire
+Il n'est pas entrain de faire quoique ce soit	il n'est pas entrain de faire quoique ce soit	il_n_est_pas_entrain_de_faire_quoique_ce_soit
+Nous ne sommes pas entrain de faire quoique ce soit	nous ne sommes pas entrain de faire quoique ce soit	nous_ne_sommes_pas_entrain_de_faire_quoique_ce_soit
+Je vois {un [poisson](bleu)}	je vois un poisson	je_vois_un_poisson_bleu
+Je vois {un [cheval] (noir)}	je vois un cheval	je_vois_un_cheval_noir
+Je vois {une [vache] (rouge)}	je vois une vache	je_vois_une_vache_rouge
+Ils voient {un [ours] (marron)}	ils voient un ours	ils_voient_un_ours_marron
+Nous voyons {un [âne] (blanc)}	nous voyons un âne	nous_voyons_un_âne_blanc
+Tu vois {une [grenouille] (verte)}	tu vois une grenouille	tu_vois_une_grenouille_verte
+Est-ce que tu vois {une [fleur] (jaune)}?	est-ce que tu vois une fleur	est_ce_que_tu_vois_une_fleur_jaune
+Est-ce qu'ils voient {une fleur (violette)}?	est-ce qu' ils voient une fleur	est_ce_qu_ils_voient_une_fleur_violette
+Est-ce qu'elle voit {une fleur (orange)}?	est-ce qu' elle voit une fleur	est_ce_qu_elle_voit_une_fleur_orange
+Qu'est-ce que tu vois? Qu'est-ce que vous voyez?	qu' est-ce que tu vois qu' est-ce que vous voyez	qu_est_ce_que_tu_vois_qu_est_ce_que_vous_voyez
+Qu'est-ce qu'elle voit?	qu' est-ce qu' elle voit	qu_est_ce_qu_elle_voit
+Qu'est-ce qu'ils voient?	qu' est-ce qu' ils voient	qu_est_ce_qu_ils_voient
+Je ne vois rien	je ne vois rien	je_ne_vois_rien
+Ils ne voient {rien}	ils ne voient rien	ils_ne_voient_rien
+Nous ne voyons rien	nous ne voyons rien	nous_ne_voyons_rien
+Je vois {(plein) de [gens]}	je vois de gens	je_vois_plein_de_gens
+Tu vois {(plein de [voitures]}	tu vois plein de voitures	tu_vois_plein_de_voitures
+Nous voyons {pleins [d'animaux]}	nous voyons pleins d' animaux	nous_voyons_pleins_d_animaux
+Je connais {son [addresse]}	je connais son addresse	je_connais_son_addresse
+Je connais {(beaucoup) de [choses]}	je connais de choses	je_connais_beaucoup_de_choses
+Il connait (la réponse) à {cette [question]}	il connait à cette question	il_connait_la_réponse_à_cette_question
+Tu connais la réponse à {notre [question]}	tu connais la réponse à notre question	tu_connais_la_réponse_à_notre_question
+Nous connaissons la réponse à {leur question]}	nous connaissons la réponse à leur question	nous_connaissons_la_réponse_à_leur_question
+Je ne connais pas {son [addresse]}	je ne connais pas son addresse	je_ne_connais_pas_son_addresse
+Je ne connais pas {son [nom]}	je ne connais pas son nom	je_ne_connais_pas_son_nom
+Je ne connais [rien]	je ne connais rien	je_ne_connais_rien
+Est-ce que tu sais {ce qui s'est passé}?	est-ce que tu sais ce qui s' est passé	est_ce_que_tu_sais_ce_qui_s_est_passé
+Est-ce que tu sais {qui a fait cela}?	est-ce que tu sais qui a fait cela	est_ce_que_tu_sais_qui_a_fait_cela
+Est-ce que tu sais {où elle est}?	est-ce que tu sais où elle est	est_ce_que_tu_sais_où_elle_est
+Qui sait qui a fait {cela}?	qui sait qui a fait cela	qui_sait_qui_a_fait_cela
+Qui sait ce qui s'est passé?	qui sait ce qui s' est passé	qui_sait_ce_qui_s_est_passé
+Qui sait où elle est?	qui sait où elle est	qui_sait_où_elle_est
+Je suis entrain d'aller à l' {école}	je suis entrain d' aller à l' école	je_suis_entrain_d_aller_à_l_école
+Je suis entrain d'aller à {l' (aéroport)}	je suis entrain d' aller à l'	je_suis_entrain_d_aller_à_l_aéroport
+Je suis entrain d'aller à {l' (hôpital)}	je suis entrain d' aller à l'	je_suis_entrain_d_aller_à_l_hôpital
+Où va t'il?	où va t' il	où_va_t_il
+Où allez-vous?	où allez-vous	où_allez_vous
+Où vont-ils?	où vont-ils	où_vont_ils
+Comment vont-ils à {leur (maison)}?	comment vont-ils à leur	comment_vont_ils_à_leur_maison
+Comment allons-nous à {notre (école}?	comment allons-nous à notre école	comment_allons_nous_à_notre_école
+Comment va t'il à {son (travail)}?	comment va t' il à son	comment_va_t_il_à_son_travail
+Ils vont à l'école {en (bus)}	ils vont à l' école en	ils_vont_à_l_école_en_bus
+Il va au travail {en (voiture)}	il va au travail en	il_va_au_travail_en_voiture
+Elle va à {sa (maison)} en [train]	elle va à sa en train	elle_va_à_sa_maison_en_train
+Nous allons {au (restaurant)} à [pied]	nous allons au à pied	nous_allons_au_restaurant_à_pied
+Tu vas {au (musée)} en [taxi]	tu vas au en taxi	tu_vas_au_musée_en_taxi
+Je vais {à l' (hôtel)} en [bus]	je vais à l' en bus	je_vais_à_l_hôtel_en_bus
+Il dit qu'il est content	il dit qu' il est content	il_dit_qu_il_est_content
+Ils disent qu'ils ont faim	ils disent qu' ils ont faim	ils_disent_qu_ils_ont_faim
+Elle dit qu'elle est occupée	elle dit qu' elle est occupée	elle_dit_qu_elle_est_occupée
+Qu'est-ce qu'ils ont dit?	qu' est-ce qu' ils ont dit	qu_est_ce_qu_ils_ont_dit
+L'homme a dit qu'il était désolé	l' homme a dit qu' il était désolé	l_homme_a_dit_qu_il_était_désolé
+La femme a dit qu'elle était désolée	la femme a dit qu' elle était désolée	la_femme_a_dit_qu_elle_était_désolée
+Les gens disent qu'ils sont désolés	les gens disent qu' ils sont désolés	les_gens_disent_qu_ils_sont_désolés
+Il a dit d'autres choses	il a dit d' autres choses	il_a_dit_d_autres_choses
+Ils ont dit beaucoup de choses	ils ont dit beaucoup de choses	ils_ont_dit_beaucoup_de_choses
+J'ai dit les mêmes choses	j'ai dit les mêmes choses	j_ai_dit_les_mêmes_choses
+Pourquoi as-tu dit cela?	pourquoi as-tu dit cela	pourquoi_as_tu_dit_cela
+Pourquoi a t'il dit cela?	pourquoi a t' il dit cela	pourquoi_a_t_il_dit_cela
+Pourquoi ont-ils dit cela?	pourquoi ont-ils dit cela	pourquoi_ont_ils_dit_cela
+Il y a un chat en dessous de la table	il y a un chat en dessous de la table	il_y_a_un_chat_en_dessous_de_la_table
+Il y a des comédies dans les cinémas	il y a des comédies dans les cinémas	il_y_a_des_comédies_dans_les_cinémas
+Il y a un bébé dans la poussette	il y a un bébé dans la poussette	il_y_a_un_bébé_dans_la_poussette
+Il y a beaucoup de gens à l'extérieur de l'immeuble.	il y a beaucoup de gens à l' extérieur de l' immeuble	il_y_a_beaucoup_de_gens_à_l_extérieur_de_l_immeuble
+Il y des feutres dans le tiroir	il y des feutres dans le tiroir	il_y_des_feutres_dans_le_tiroir
+Il y a des notes sur le réfrigérateur	il y a des notes sur le réfrigérateur	il_y_a_des_notes_sur_le_réfrigérateur
+Il  y a une voiture devant la maison	il y a une voiture devant la maison	il_y_a_une_voiture_devant_la_maison
+Il y a une personne derrière lui	il y a une personne derrière lui	il_y_a_une_personne_derrière_lui
+Il y a une chaise à côté de vous/toi?	il y a une chaise à côté de vous toi	il_y_a_une_chaise_à_côté_de_vous_toi
+Y'a t'il un problème avec cette voiture?	y'a t' il un problème avec cette voiture	y_a_t_il_un_problème_avec_cette_voiture
+Y'a t'il des toilettes à cet étage?	y'a t' il des toilettes à cet étage	y_a_t_il_des_toilettes_à_cet_étage
+Y'a t'il un médicament contre les allergies?	y'a t' il un médicament contre les allergies	y_a_t_il_un_médicament_contre_les_allergies
+Il n'y a pas de chat sur la table	il n'y a pas de chat sur la table	il_n_y_a_pas_de_chat_sur_la_table
+Il n'y a pas de série à la télévision	il n'y a pas de série à la télévision	il_n_y_a_pas_de_série_à_la_télévision
+Il n'y a personne derrière la porte	il n'y a personne derrière la porte	il_n_y_a_personne_derrière_la_porte
+Y'a t'il quelqu'un à la maison?	y'a t' il quelqu' un à la maison	y_a_t_il_quelqu_un_à_la_maison
+Y'a t'il quelque chose dans la voiture?	y'a t' il quelque chose dans la voiture	y_a_t_il_quelque_chose_dans_la_voiture
+Y'a t'il des enfants à l'école?	y'a t' il des enfants à l' école	y_a_t_il_des_enfants_à_l_école
